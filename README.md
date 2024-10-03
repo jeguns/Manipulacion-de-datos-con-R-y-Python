@@ -24,7 +24,7 @@ Curso de extensión ofrecido desde el Departamento Académico de Estadistica Inf
   - https://posit.co/download/rstudio-desktop/#download
   - https://docs.posit.co/previous-versions/ (si tu procesador es de 32 bits)
 
-  Para quienes ya cuenten con el software, verificar que la versión de R sea 4.1.0 en adelante7
+  Para quienes ya cuenten con el software, verificar que la versión de R sea 4.1.0 en adelante.
 
 - Python:
     Utilizaremos Google Colab, solo requieren tener una cuenta Gmail con almacenamiento disponible
