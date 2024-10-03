@@ -19,6 +19,7 @@ Curso de extensión ofrecido desde el Departamento Académico de Estadistica Inf
 | Domingo 27 	|   4   	| Tipos y colecciones de datos en Python                                                	|
 |  Martes 29 	|   4   	| Lectura de archivos en Python                                                         	|
 | Domingo 03 	|   4   	| Manipulación de datos en Python. Resúmenes estadísticos de datos con Python           	|
+
 Esta programación es referencial y la distribución de horas puede variar modificaciones a medida que vamos avanzando en el curso
 
 ## Software
