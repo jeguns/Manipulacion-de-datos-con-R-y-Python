@@ -1,0 +1,1248 @@
+ENC	GENERO	AMBITO	REGION	EDAD	NIVEL	DISTRITO	PA	PB	P20	PESO2	REGION2
+2985726	Masculino	Urbano	Lima	De 43 a más	A	SAN BORJA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2985789	Masculino	Urbano	Lima	De 26 a 42	A	SANTIAGO DE SURCO	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2985820	Masculino	Urbano	Lima	De 43 a más	A	SAN BORJA	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2985822	Masculino	Urbano	Sierra Centro	De 43 a más	C	EL TAMBO	Junin	0	0	0,828176700000000	Centro
+2985826	Femenino	Urbano	Lima	De 26 a 42	A	MIRAFLORES	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2985833	Masculino	Rural	Sierra Norte	De 43 a más	E	HUANCABAMBA	Piura	0	0	3,894759200000000	Norte
+2985848	Femenino	Urbano	Sierra Centro	De 43 a más	C	JUNÍN	Junin	0	0	0,828176700000000	Centro
+2985849	Masculino	Urbano	Sierra Centro	De 18 a 25	E	EL TAMBO	Junin	0	0	1,168026700000000	Centro
+2985850	Femenino	Urbano	Lima	De 18 a 25	A	SAN BORJA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2985851	Masculino	Rural	Sierra Norte	De 26 a 42	B	HUANCABAMBA	Piura	0	0	0,003948800000000	Norte
+2985857	Masculino	Urbano	Lima	De 26 a 42	C	SANTA ANITA	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2985858	Masculino	Urbano	Sierra Centro	De 26 a 42	D	EL TAMBO	Junin	0	0	2,083386900000000	Centro
+2985859	Femenino	Urbano	Lima	De 26 a 42	A	SANTIAGO DE SURCO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2985860	Masculino	Rural	Costa Norte	De 43 a más	B	OLMOS	Lambayeque	0	0	0,071079200000000	Norte
+2985865	Femenino	Urbano	Costa Sur	De 43 a más	D	CERRO COLORADO	Arequipa	0	0	1,281259500000000	Sur
+2985866	Femenino	Urbano	Lima	De 18 a 25	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2985868	Femenino	Urbano	Lima	De 43 a más	C	CARABAYLLO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2985874	Femenino	Urbano	Sierra Norte	De 18 a 25	E	INDEPENDENCIA	Áncash	0	0	0,714354900000000	Norte
+2985890	Masculino	Urbano	Costa Norte	De 43 a más	E	CHICLAYO	Lambayeque	0	0	0,921439700000000	Norte
+2985896	Femenino	Urbano	Sierra Centro	De 43 a más	D	EL TAMBO	Junin	0	0	2,083386900000000	Centro
+2985902	Femenino	Rural	Costa Norte	De 43 a más	E	OLMOS	Lambayeque	0	0	1,565301300000000	Norte
+2985903	Masculino	Rural	Sierra Norte	De 43 a más	D	HUANCABAMBA	Piura	0	0	0,722015100000000	Norte
+2985905	Femenino	Urbano	Sierra Centro	De 43 a más	C	EL TAMBO	Junin	0	0	0,828176700000000	Centro
+2985906	Femenino	Urbano	Costa Sur	De 43 a más	D	CERRO COLORADO	Arequipa	0	0	1,281259500000000	Sur
+2985921	Masculino	Urbano	Oriente	De 26 a 42	D	IQUITOS	Loreto	0	0	1,605392500000000	Oriente
+2985922	Masculino	Urbano	Costa Norte	De 18 a 25	C	VIRU	La Libertad	0	0	1,157352900000000	Norte
+2985923	Femenino	Rural	Costa Norte	De 26 a 42	E	OLMOS	Lambayeque	0	0	1,565301300000000	Norte
+2985930	Femenino	Urbano	Lima	De 18 a 25	D	CARABAYLLO	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2985931	Femenino	Urbano	Oriente	De 26 a 42	C	TARAPOTO	San Martin	0	0	1,185484800000000	Oriente
+2985932	Masculino	Rural	Costa Sur	De 18 a 25	D	PACHIA	Tacna	0	0	0,295539900000000	Sur
+2985933	Masculino	Urbano	Oriente	De 43 a más	E	BAGUA GRANDE	Amazonas	0	0	0,876358600000000	Oriente
+2985934	Femenino	Rural	Costa Norte	De 26 a 42	E	OLMOS	Lambayeque	0	0	1,565301300000000	Norte
+2985935	Masculino	Urbano	Costa Norte	De 18 a 25	B	SULLANA	Piura	0	0	0,687797400000000	Norte
+2985936	Femenino	Urbano	Costa Norte	De 26 a 42	C	VIRU	La Libertad	0	0	1,157352900000000	Norte
+2985937	Masculino	Urbano	Lima	De 43 a más	B	INDEPENDENCIA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2985938	Masculino	Urbano	Lima	De 18 a 25	B	LIMA	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2985939	Masculino	Urbano	Lima	De 26 a 42	D	VENTANILLA	Lima y Callao	Callao	0	0,888577500000000	Lima
+2985942	Masculino	Urbano	Costa Sur	De 43 a más	B	YANAHUARA	Arequipa	0	0	0,397898100000000	Sur
+2985949	Femenino	Urbano	Lima	De 26 a 42	A	SAN BORJA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2985951	Femenino	Urbano	Costa Norte	De 26 a 42	E	JOSE LEONARDO ORTIZ	Lambayeque	0	0	0,921439700000000	Norte
+2985954	Femenino	Urbano	Costa Norte	De 43 a más	D	CASTILLA	Piura	0	0	1,593514800000000	Norte
+2985955	Femenino	Urbano	Costa Norte	De 43 a más	E	CHICLAYO	Lambayeque	0	0	0,921439700000000	Norte
+2985957	Masculino	Urbano	Lima	De 43 a más	D	CARABAYLLO	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2985958	Masculino	Rural	Costa Sur	De 26 a 42	B	PACHIA	Tacna	0	0	0,104748300000000	Sur
+2985959	Femenino	Urbano	Lima	De 18 a 25	C	SAN MARTIN DE PORRES	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2985960	Femenino	Urbano	Costa Sur	De 26 a 42	B	YANAHUARA	Arequipa	0	0	0,397898100000000	Sur
+2985961	Femenino	Urbano	Lima	De 18 a 25	C	VILLA EL SALVADOR	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2985962	Femenino	Urbano	Lima	De 43 a más	C	VILLA EL SALVADOR	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2985965	Masculino	Urbano	Oriente	De 43 a más	C	TARAPOTO	San Martin	0	0	1,185484800000000	Oriente
+2985990	Masculino	Urbano	Oriente	De 18 a 25	D	BAGUA GRANDE	Amazonas	0	0	1,605392500000000	Oriente
+2985994	Masculino	Rural	Costa Norte	De 26 a 42	E	OLMOS	Lambayeque	0	0	1,565301300000000	Norte
+2985995	Masculino	Urbano	Lima	De 43 a más	C	SANTA ANITA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2985998	Femenino	Urbano	Lima	De 18 a 25	C	LIMA	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2986000	Masculino	Urbano	Lima	De 18 a 25	D	ATE	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2986002	Femenino	Urbano	Costa Norte	De 43 a más	E	SULLANA	Piura	0	0	0,921439700000000	Norte
+2986003	Femenino	Urbano	Oriente	De 26 a 42	E	CALLERIA	Ucayali	0	0	0,876358600000000	Oriente
+2986004	Masculino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986005	Femenino	Urbano	Costa Norte	De 26 a 42	C	CASTILLA	Piura	0	0	1,157352900000000	Norte
+2986007	Femenino	Urbano	Costa Norte	De 26 a 42	D	JOSE LEONARDO ORTIZ	Lambayeque	0	0	1,593514800000000	Norte
+2986011	Femenino	Urbano	Costa Norte	De 26 a 42	C	VIRU	La Libertad	0	0	1,157352900000000	Norte
+2986028	Masculino	Urbano	Lima	De 43 a más	A	MIRAFLORES	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986030	Masculino	Rural	Costa Norte	De 43 a más	B	OLMOS	Lambayeque	0	0	0,071079200000000	Norte
+2986031	Masculino	Urbano	Lima	De 26 a 42	C	LIMA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986034	Masculino	Urbano	Costa Norte	De 18 a 25	B	CHICLAYO	Lambayeque	0	0	0,687797400000000	Norte
+2986035	Masculino	Rural	Oriente	De 43 a más	C	SAN IGNACIO	Cajamarca	0	0	0,197204700000000	Oriente
+2986036	Femenino	Urbano	Oriente	De 26 a 42	E	JAEN	Cajamarca	0	0	0,876358600000000	Oriente
+2986037	Masculino	Urbano	Lima	De 43 a más	C	INDEPENDENCIA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986044	Femenino	Urbano	Costa Norte	De 26 a 42	E	SULLANA	Piura	0	0	0,921439700000000	Norte
+2986050	Masculino	Urbano	Lima	De 43 a más	C	BELLAVISTA	Lima y Callao	Callao	0	0,844042600000000	Lima
+2986051	Masculino	Urbano	Costa Norte	De 18 a 25	D	VIRU	La Libertad	0	0	1,593514800000000	Norte
+2986052	Masculino	Urbano	Lima	De 18 a 25	C	ATE	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2986053	Masculino	Urbano	Lima	De 43 a más	B	SANTA ANITA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986054	Masculino	Urbano	Costa Sur	De 26 a 42	D	CERRO COLORADO	Arequipa	0	0	1,281259500000000	Sur
+2986055	Femenino	Rural	Sierra Norte	De 43 a más	C	CHOTA	Cajamarca	0	0	0,029980000000000	Norte
+2986056	Masculino	Urbano	Oriente	De 18 a 25	E	BAGUA GRANDE	Amazonas	0	0	0,876358600000000	Oriente
+2986057	Masculino	Urbano	Costa Sur	De 26 a 42	C	YANAHUARA	Arequipa	0	0	1,898521500000000	Sur
+2986058	Masculino	Urbano	Lima	De 43 a más	E	VENTANILLA	Lima y Callao	Callao	0	0,570573400000000	Lima
+2986060	Femenino	Rural	Oriente	De 18 a 25	C	SAN IGNACIO	Cajamarca	0	0	0,197204700000000	Oriente
+2986061	Femenino	Rural	Costa Sur	De 26 a 42	C	PACHIA	Tacna	0	0	0,527482600000000	Sur
+2986062	Masculino	Urbano	Lima	De 26 a 42	B	LIMA	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2986063	Femenino	Urbano	Oriente	De 26 a 42	E	CALLERIA	Ucayali	0	0	0,876358600000000	Oriente
+2986064	Masculino	Urbano	Sierra Centro	De 18 a 25	E	HUANCAVELICA	Huancavelica	0	0	1,168026700000000	Centro
+2986067	Femenino	Urbano	Oriente	De 43 a más	D	IQUITOS	Loreto	0	0	1,605392500000000	Oriente
+2986068	Masculino	Urbano	Costa Norte	De 18 a 25	D	CHICLAYO	Lambayeque	0	0	1,593514800000000	Norte
+2986069	Femenino	Urbano	Lima	De 43 a más	A	LA MOLINA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986070	Femenino	Urbano	Costa Norte	De 26 a 42	E	PARIÑAS	Piura	0	0	0,921439700000000	Norte
+2986071	Femenino	Urbano	Costa Norte	De 26 a 42	C	CASTILLA	Piura	0	0	1,157352900000000	Norte
+2986072	Masculino	Urbano	Costa Norte	De 18 a 25	C	LA ESPERANZA	La Libertad	0	0	1,157352900000000	Norte
+2986073	Masculino	Urbano	Costa Norte	De 26 a 42	B	VIRU	La Libertad	0	0	0,687797400000000	Norte
+2986074	Masculino	Urbano	Costa Norte	De 43 a más	B	LA ESPERANZA	La Libertad	0	0	0,687797400000000	Norte
+2986075	Femenino	Urbano	Costa Norte	De 43 a más	C	LA ESPERANZA	La Libertad	0	0	1,157352900000000	Norte
+2986078	Femenino	Urbano	Lima	De 26 a 42	C	ATE	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986080	Femenino	Urbano	Costa Norte	De 43 a más	E	SULLANA	Piura	0	0	0,921439700000000	Norte
+2986083	Masculino	Urbano	Costa Centro	De 26 a 42	D	HUAURA	Lima Provincias	0	0	1,080154500000000	Centro
+2986085	Masculino	Rural	Costa Norte	De 18 a 25	C	OLMOS	Lambayeque	0	0	0,115971300000000	Norte
+2986086	Masculino	Rural	Sierra Norte	De 26 a 42	C	HUANCABAMBA	Piura	0	0	0,029980000000000	Norte
+2986087	Femenino	Rural	Sierra Norte	De 26 a 42	B	HUANCABAMBA	Piura	0	0	0,003948800000000	Norte
+2986088	Masculino	Rural	Oriente	De 26 a 42	D	SAN IGNACIO	Cajamarca	0	0	0,964468300000000	Oriente
+2986089	Femenino	Urbano	Lima	De 26 a 42	B	LIMA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986091	Femenino	Urbano	Lima	De 43 a más	B	SAN MARTIN DE PORRES	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2986093	Femenino	Urbano	Costa Sur	De 43 a más	B	YANAHUARA	Arequipa	0	0	0,397898100000000	Sur
+2986096	Femenino	Rural	Costa Sur	De 43 a más	E	PACHIA	Tacna	0	0	0,831751400000000	Sur
+2986098	Femenino	Urbano	Lima	De 43 a más	A	SANTIAGO DE SURCO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986099	Masculino	Urbano	Costa Norte	De 26 a 42	C	LAMBAYEQUE	Lambayeque	0	0	1,157352900000000	Norte
+2986100	Masculino	Urbano	Costa Norte	De 26 a 42	D	VIRU	La Libertad	0	0	1,593514800000000	Norte
+2986101	Masculino	Urbano	Oriente	De 26 a 42	E	JAEN	Cajamarca	0	0	0,876358600000000	Oriente
+2986105	Masculino	Urbano	Oriente	De 43 a más	E	CALLERIA	Ucayali	0	0	0,876358600000000	Oriente
+2986106	Masculino	Urbano	Sierra Centro	De 26 a 42	B	HUANCAVELICA	Huancavelica	0	0	0,381243000000000	Centro
+2986108	Masculino	Urbano	Lima	De 26 a 42	C	BELLAVISTA	Lima y Callao	Callao	0	0,844042600000000	Lima
+2986109	Femenino	Rural	Sierra Norte	De 18 a 25	C	OLLEROS	Áncash	0	0	0,029980000000000	Norte
+2986110	Masculino	Urbano	Lima	De 43 a más	D	VENTANILLA	Lima y Callao	Callao	0	0,888577500000000	Lima
+2986111	Masculino	Urbano	Lima	De 18 a 25	C	CARABAYLLO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986112	Femenino	Urbano	Lima	De 43 a más	D	CARABAYLLO	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2986113	Masculino	Urbano	Costa Centro	De 43 a más	E	BARRANCA	Lima Provincias	0	0	0,686267700000000	Centro
+2986114	Femenino	Urbano	Costa Norte	De 26 a 42	D	SULLANA	Piura	0	0	1,593514800000000	Norte
+2986115	Masculino	Urbano	Costa Sur	De 18 a 25	D	CERRO COLORADO	Arequipa	0	0	1,281259500000000	Sur
+2986116	Masculino	Urbano	Costa Centro	De 18 a 25	E	HUAURA	Lima Provincias	0	0	0,686267700000000	Centro
+2986117	Femenino	Rural	Oriente	De 18 a 25	E	SAN IGNACIO	Cajamarca	0	0	1,918359300000000	Oriente
+2986118	Masculino	Urbano	Costa Norte	De 43 a más	C	CASTILLA	Piura	0	0	1,157352900000000	Norte
+2986119	Femenino	Urbano	Costa Sur	De 26 a 42	B	YANAHUARA	Arequipa	0	0	0,397898100000000	Sur
+2986120	Masculino	Urbano	Costa Norte	De 26 a 42	E	JOSE LEONARDO ORTIZ	Lambayeque	0	0	0,921439700000000	Norte
+2986121	Femenino	Urbano	Costa Norte	De 18 a 25	E	JOSE LEONARDO ORTIZ	Lambayeque	0	0	0,921439700000000	Norte
+2986123	Femenino	Urbano	Lima	De 18 a 25	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,888577500000000	Lima
+2986124	Masculino	Rural	Costa Norte	De 43 a más	C	OLMOS	Lambayeque	0	0	0,115971300000000	Norte
+2986125	Femenino	Urbano	Costa Norte	De 43 a más	D	LA ESPERANZA	La Libertad	0	0	1,593514800000000	Norte
+2986126	Femenino	Urbano	Lima	De 18 a 25	B	INDEPENDENCIA	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986127	Masculino	Urbano	Costa Norte	De 43 a más	E	CHICLAYO	Lambayeque	0	0	0,921439700000000	Norte
+2986132	Femenino	Urbano	Lima	De 43 a más	A	LA MOLINA	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2986133	Femenino	Urbano	Lima	De 18 a 25	B	ATE	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986134	Masculino	Urbano	Lima	De 26 a 42	D	SANTA ANITA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2986136	Femenino	Urbano	Lima	De 26 a 42	C	INDEPENDENCIA	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986137	Femenino	Urbano	Costa Norte	De 43 a más	E	VIRU	La Libertad	0	0	0,921439700000000	Norte
+2986138	Masculino	Rural	Sierra Norte	De 26 a 42	D	OLLEROS	Áncash	0	0	0,722015100000000	Norte
+2986139	Masculino	Rural	Oriente	De 43 a más	C	SAN IGNACIO	Cajamarca	0	0	0,197204700000000	Oriente
+2986140	Masculino	Urbano	Oriente	De 26 a 42	C	IQUITOS	Loreto	0	0	1,185484800000000	Oriente
+2986141	Femenino	Urbano	Costa Centro	De 26 a 42	E	HUAURA	Lima Provincias	0	0	0,686267700000000	Centro
+2986142	Masculino	Urbano	Costa Norte	De 43 a más	D	EL PORVENIR	La Libertad	0	0	1,593514800000000	Norte
+2986143	Masculino	Urbano	Costa Norte	De 18 a 25	E	EL PORVENIR	La Libertad	0	0	0,921439700000000	Norte
+2986144	Femenino	Urbano	Costa Norte	De 43 a más	E	EL PORVENIR	La Libertad	0	0	0,921439700000000	Norte
+2986145	Femenino	Urbano	Costa Norte	De 18 a 25	D	EL PORVENIR	La Libertad	0	0	1,593514800000000	Norte
+2986146	Femenino	Urbano	Costa Norte	De 26 a 42	D	EL PORVENIR	La Libertad	0	0	1,593514800000000	Norte
+2986147	Masculino	Urbano	Costa Norte	De 26 a 42	D	EL PORVENIR	La Libertad	0	0	1,593514800000000	Norte
+2986148	Femenino	Urbano	Costa Norte	De 26 a 42	B	EL PORVENIR	La Libertad	0	0	0,687797400000000	Norte
+2986149	Masculino	Rural	Sierra Norte	De 26 a 42	C	HUANCABAMBA	Piura	0	0	0,029980000000000	Norte
+2986150	Masculino	Urbano	Costa Norte	De 18 a 25	C	SULLANA	Piura	0	0	1,157352900000000	Norte
+2986151	Femenino	Urbano	Oriente	De 18 a 25	E	CALLERIA	Ucayali	0	0	0,876358600000000	Oriente
+2986152	Masculino	Urbano	Sierra Sur	De 26 a 42	C	PUNO	Puno	0	0	1,432073600000000	Sur
+2986153	Femenino	Urbano	Lima	De 26 a 42	B	MAGDALENA VIEJA	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2986154	Masculino	Urbano	Lima	De 43 a más	B	MAGDALENA VIEJA	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986155	Masculino	Urbano	Costa Norte	De 26 a 42	D	LAMBAYEQUE	Lambayeque	0	0	1,593514800000000	Norte
+2986156	Femenino	Urbano	Lima	De 26 a 42	C	PUENTE PIEDRA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986157	Masculino	Urbano	Costa Centro	De 43 a más	E	BARRANCA	Lima Provincias	0	0	0,686267700000000	Centro
+2986173	Femenino	Urbano	Sierra Centro	De 18 a 25	C	EL TAMBO	Junin	0	0	0,828176700000000	Centro
+2986178	Masculino	Urbano	Costa Norte	De 43 a más	C	CASTILLA	Piura	0	0	1,157352900000000	Norte
+2986179	Masculino	Urbano	Lima	De 43 a más	D	ATE	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2986180	Masculino	Urbano	Lima	De 43 a más	C	ATE	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986181	Masculino	Urbano	Lima	De 43 a más	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986183	Masculino	Urbano	Costa Norte	De 43 a más	C	VIRU	La Libertad	0	0	1,157352900000000	Norte
+2986184	Femenino	Urbano	Costa Norte	De 26 a 42	D	PUCALÁ	Lambayeque	0	0	1,593514800000000	Norte
+2986185	Femenino	Urbano	Lima	De 26 a 42	C	CARABAYLLO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986186	Femenino	Rural	Oriente	De 43 a más	E	SAN IGNACIO	Cajamarca	0	0	1,918359300000000	Oriente
+2986189	Femenino	Urbano	Lima	De 43 a más	D	INDEPENDENCIA	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2986190	Femenino	Rural	Costa Norte	De 18 a 25	D	OLMOS	Lambayeque	0	0	0,649190100000000	Norte
+2986191	Masculino	Urbano	Costa Norte	De 18 a 25	B	TRUJILLO	La Libertad	0	0	0,687797400000000	Norte
+2986192	Masculino	Urbano	Costa Norte	De 43 a más	B	TRUJILLO	La Libertad	0	0	0,687797400000000	Norte
+2986193	Masculino	Urbano	Costa Norte	De 18 a 25	E	TRUJILLO	La Libertad	0	0	0,921439700000000	Norte
+2986194	Femenino	Urbano	Costa Norte	De 43 a más	C	TRUJILLO	La Libertad	0	0	1,157352900000000	Norte
+2986195	Masculino	Urbano	Costa Sur	De 18 a 25	B	YANAHUARA	Arequipa	0	0	0,397898100000000	Sur
+2986196	Femenino	Urbano	Costa Norte	De 26 a 42	B	TRUJILLO	La Libertad	0	0	0,687797400000000	Norte
+2986197	Femenino	Urbano	Lima	De 43 a más	C	VILLA EL SALVADOR	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2986198	Masculino	Urbano	Costa Norte	De 26 a 42	D	TRUJILLO	La Libertad	0	0	1,593514800000000	Norte
+2986199	Masculino	Urbano	Lima	De 43 a más	D	LIMA	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2986200	Masculino	Urbano	Costa Norte	De 43 a más	B	TRUJILLO	La Libertad	0	0	0,687797400000000	Norte
+2986201	Masculino	Urbano	Costa Centro	De 26 a 42	C	IMPERIAL	Lima Provincias	0	0	1,928532600000000	Centro
+2986202	Masculino	Urbano	Costa Centro	De 18 a 25	B	IMPERIAL	Lima Provincias	0	0	1,133942000000000	Centro
+2986203	Masculino	Urbano	Costa Norte	De 43 a más	B	CHICLAYO	Lambayeque	0	0	0,687797400000000	Norte
+2986204	Femenino	Urbano	Costa Centro	De 43 a más	D	IMPERIAL	Lima Provincias	0	0	1,080154500000000	Centro
+2986205	Femenino	Rural	Costa Sur	De 43 a más	D	PACHIA	Tacna	0	0	0,295539900000000	Sur
+2986206	Masculino	Urbano	Costa Norte	De 43 a más	E	PACANGA	La Libertad	0	0	0,921439700000000	Norte
+2986207	Femenino	Urbano	Costa Norte	De 26 a 42	C	JOSE LEONARDO ORTIZ	Lambayeque	0	0	1,157352900000000	Norte
+2986208	Masculino	Urbano	Oriente	De 43 a más	D	BAGUA GRANDE	Amazonas	0	0	1,605392500000000	Oriente
+2986209	Masculino	Urbano	Sierra Centro	De 26 a 42	C	HUANCAVELICA	Huancavelica	0	0	0,828176700000000	Centro
+2986210	Femenino	Urbano	Lima	De 43 a más	E	VENTANILLA	Lima y Callao	Callao	0	0,570573400000000	Lima
+2986212	Femenino	Rural	Sierra Norte	De 43 a más	C	CHOTA	Cajamarca	0	0	0,029980000000000	Norte
+2986213	Femenino	Rural	Sierra Norte	De 26 a 42	C	CHOTA	Cajamarca	0	0	0,029980000000000	Norte
+2986214	Masculino	Urbano	Costa Sur	De 43 a más	C	MARIANO MELGAR	Arequipa	0	0	1,898521500000000	Sur
+2986215	Masculino	Urbano	Costa Sur	De 43 a más	B	MARIANO MELGAR	Arequipa	0	0	0,397898100000000	Sur
+2986216	Femenino	Urbano	Costa Sur	De 26 a 42	C	MARIANO MELGAR	Arequipa	0	0	1,898521500000000	Sur
+2986217	Masculino	Urbano	Lima	De 43 a más	C	LA VICTORIA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986218	Femenino	Urbano	Lima	De 43 a más	C	LA VICTORIA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986219	Femenino	Urbano	Lima	De 18 a 25	C	LA VICTORIA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986220	Masculino	Urbano	Lima	De 43 a más	D	LA VICTORIA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,888577500000000	Lima
+2986221	Masculino	Urbano	Lima	De 26 a 42	C	LA VICTORIA	Lima y Callao	Lima	Elizabeth León por Frente de la Esperanza	0,844042600000000	Lima
+2986222	Masculino	Urbano	Oriente	De 18 a 25	E	CALLERIA	Ucayali	0	0	0,876358600000000	Oriente
+2986224	Masculino	Urbano	Lima	De 26 a 42	D	INDEPENDENCIA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2986225	Femenino	Urbano	Costa Norte	De 18 a 25	C	PARIÑAS	Piura	0	0	1,157352900000000	Norte
+2986226	Femenino	Urbano	Oriente	De 26 a 42	D	IQUITOS	Loreto	0	0	1,605392500000000	Oriente
+2986228	Masculino	Urbano	Lima	De 26 a 42	A	MIRAFLORES	Lima y Callao	Lima	Gonzalo Alegria por Juntos por el Perú	0,722194300000000	Lima
+2986230	Femenino	Urbano	Costa Norte	De 43 a más	C	VIRU	La Libertad	0	0	1,157352900000000	Norte
+2986231	Masculino	Rural	Sierra Norte	De 43 a más	C	OLLEROS	Áncash	0	0	0,029980000000000	Norte
+2986232	Masculino	Urbano	Costa Norte	De 18 a 25	E	CASTILLA	Piura	0	0	0,921439700000000	Norte
+2986233	Femenino	Urbano	Lima	De 43 a más	D	ATE	Lima y Callao	Lima	Omar Chehade por Alianza por el Progreso (APP)	0,888577500000000	Lima
+2986240	Masculino	Urbano	Sierra Sur	De 43 a más	C	PUNO	Puno	0	0	1,432073600000000	Sur
+2986242	Masculino	Urbano	Costa Norte	De 43 a más	C	LA ESPERANZA	La Libertad	0	0	1,157352900000000	Norte
+2986243	Femenino	Urbano	Costa Norte	De 18 a 25	C	LA ESPERANZA	La Libertad	0	0	1,157352900000000	Norte
+2986249	Masculino	Urbano	Lima	De 43 a más	B	BELLAVISTA	Lima y Callao	Callao	0	0,722194300000000	Lima
+2986251	Femenino	Urbano	Costa Norte	De 26 a 42	C	SULLANA	Piura	0	0	1,157352900000000	Norte
+2986258	Masculino	Urbano	Lima	De 43 a más	D	LIMA	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2986259	Femenino	Urbano	Lima	De 26 a 42	D	SANTA ANITA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2986260	Masculino	Urbano	Costa Norte	De 43 a más	D	PUCALÁ	Lambayeque	0	0	1,593514800000000	Norte
+2986261	Femenino	Rural	Sierra Centro	De 43 a más	E	HUACHAC	Junin	0	0	1,939897400000000	Centro
+2986262	Masculino	Rural	Sierra Centro	De 43 a más	E	HUACHAC	Junin	0	0	1,939897400000000	Centro
+2986263	Masculino	Rural	Sierra Centro	De 43 a más	B	HUACHAC	Junin	0	0	0,043645100000000	Centro
+2986264	Femenino	Rural	Sierra Centro	De 18 a 25	D	HUACHAC	Junin	0	0	0,931823500000000	Centro
+2986266	Femenino	Urbano	Oriente	De 43 a más	D	JAEN	Cajamarca	0	0	1,605392500000000	Oriente
+2986267	Masculino	Urbano	Costa Norte	De 18 a 25	D	JOSE LEONARDO ORTIZ	Lambayeque	0	0	1,593514800000000	Norte
+2986268	Femenino	Urbano	Lima	De 18 a 25	C	PUENTE PIEDRA	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2986269	Femenino	Urbano	Oriente	De 26 a 42	C	CALLERIA	Ucayali	0	0	1,185484800000000	Oriente
+2986270	Masculino	Urbano	Lima	De 18 a 25	B	MAGDALENA VIEJA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986271	Femenino	Urbano	Lima	De 43 a más	E	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,570573400000000	Lima
+2986272	Masculino	Urbano	Lima	De 26 a 42	C	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986273	Masculino	Urbano	Lima	De 43 a más	D	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2986274	Femenino	Urbano	Lima	De 26 a 42	B	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Elizabeth León por Frente de la Esperanza	0,722194300000000	Lima
+2986275	Masculino	Urbano	Lima	De 43 a más	B	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986276	Masculino	Urbano	Lima	De 26 a 42	C	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986277	Femenino	Urbano	Lima	De 18 a 25	B	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986278	Femenino	Urbano	Lima	De 26 a 42	D	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2986279	Femenino	Urbano	Lima	De 43 a más	C	VILLA EL SALVADOR	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986280	Femenino	Urbano	Costa Norte	De 26 a 42	E	TRUJILLO	La Libertad	0	0	0,921439700000000	Norte
+2986281	Femenino	Urbano	Costa Sur	De 43 a más	D	PAUCARPATA	Arequipa	0	0	1,281259500000000	Sur
+2986282	Masculino	Urbano	Lima	De 26 a 42	C	SAN MARTIN DE PORRES	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986285	Masculino	Urbano	Lima	De 26 a 42	C	ATE	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986286	Femenino	Urbano	Lima	De 43 a más	C	INDEPENDENCIA	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986287	Femenino	Rural	Costa Norte	De 26 a 42	D	OLMOS	Lambayeque	0	0	0,649190100000000	Norte
+2986288	Femenino	Urbano	Costa Sur	De 43 a más	B	YANAHUARA	Arequipa	0	0	0,397898100000000	Sur
+2986289	Masculino	Urbano	Lima	De 26 a 42	C	INDEPENDENCIA	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2986291	Masculino	Urbano	Costa Sur	De 43 a más	E	CERRO COLORADO	Arequipa	0	0	1,536620300000000	Sur
+2986292	Femenino	Rural	Oriente	De 26 a 42	E	ARAMANGO	Amazonas	0	0	1,918359300000000	Oriente
+2986293	Femenino	Rural	Costa Norte	De 18 a 25	C	LAS LOMAS	Piura	0	0	0,115971300000000	Norte
+2986295	Masculino	Rural	Oriente	De 26 a 42	C	ECHARATE	Cusco	0	0	0,197204700000000	Oriente
+2986296	Femenino	Rural	Oriente	De 18 a 25	E	ECHARATE	Cusco	0	0	1,918359300000000	Oriente
+2986297	Femenino	Rural	Oriente	De 43 a más	E	ECHARATE	Cusco	0	0	1,918359300000000	Oriente
+2986298	Femenino	Rural	Oriente	De 26 a 42	E	ECHARATE	Cusco	0	0	1,918359300000000	Oriente
+2986299	Femenino	Rural	Oriente	De 43 a más	C	ECHARATE	Cusco	0	0	0,197204700000000	Oriente
+2986300	Masculino	Urbano	Costa Norte	De 43 a más	D	CASTILLA	Piura	0	0	1,593514800000000	Norte
+2986301	Femenino	Urbano	Lima	De 43 a más	C	LIMA	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986302	Masculino	Urbano	Costa Norte	De 26 a 42	C	LA ESPERANZA	La Libertad	0	0	1,157352900000000	Norte
+2986305	Masculino	Urbano	Costa Centro	De 43 a más	D	HUAURA	Lima Provincias	0	0	1,080154500000000	Centro
+2986306	Femenino	Urbano	Lima	De 43 a más	D	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2986307	Femenino	Urbano	Costa Norte	De 26 a 42	C	PARIÑAS	Piura	0	0	1,157352900000000	Norte
+2986308	Femenino	Urbano	Lima	De 26 a 42	D	CARABAYLLO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2986310	Femenino	Urbano	Costa Norte	De 43 a más	E	VIRU	La Libertad	0	0	0,921439700000000	Norte
+2986311	Femenino	Urbano	Sierra Centro	De 26 a 42	C	HUANCAVELICA	Huancavelica	0	0	0,828176700000000	Centro
+2986312	Masculino	Urbano	Lima	De 43 a más	C	BREÑA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986313	Masculino	Urbano	Lima	De 43 a más	B	LOS OLIVOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986314	Masculino	Rural	Sierra Norte	De 18 a 25	D	OLLEROS	Áncash	0	0	0,722015100000000	Norte
+2986315	Femenino	Urbano	Sierra Centro	De 26 a 42	E	CHAUPIMARCA	Pasco	0	0	1,168026700000000	Centro
+2986317	Masculino	Urbano	Oriente	De 26 a 42	E	CALLERIA	Ucayali	0	0	0,876358600000000	Oriente
+2986318	Femenino	Urbano	Costa Norte	De 26 a 42	D	CHICLAYO	Lambayeque	0	0	1,593514800000000	Norte
+2986319	Femenino	Urbano	Lima	De 43 a más	B	MAGDALENA VIEJA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986320	Femenino	Urbano	Lima	De 18 a 25	C	ATE	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986321	Femenino	Urbano	Lima	De 43 a más	E	ATE	Lima y Callao	Lima	Gonzalo Alegria por Juntos por el Perú	0,570573400000000	Lima
+2986322	Femenino	Urbano	Costa Sur	De 43 a más	B	PAUCARPATA	Arequipa	0	0	0,397898100000000	Sur
+2986323	Masculino	Urbano	Lima	De 18 a 25	C	INDEPENDENCIA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986325	Femenino	Rural	Oriente	De 43 a más	E	SAN IGNACIO	Cajamarca	0	0	1,918359300000000	Oriente
+2986326	Masculino	Urbano	Costa Norte	De 26 a 42	C	SULLANA	Piura	0	0	1,157352900000000	Norte
+2986327	Masculino	Urbano	Lima	De 43 a más	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2986328	Masculino	Rural	Oriente	De 43 a más	C	ARAMANGO	Amazonas	0	0	0,197204700000000	Oriente
+2986329	Femenino	Urbano	Lima	De 26 a 42	C	LIMA	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986330	Femenino	Urbano	Lima	De 43 a más	C	VILLA EL SALVADOR	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986331	Masculino	Urbano	Lima	De 43 a más	D	VENTANILLA	Lima y Callao	Callao	0	0,888577500000000	Lima
+2986333	Masculino	Urbano	Oriente	De 26 a 42	E	IQUITOS	Loreto	0	0	0,876358600000000	Oriente
+2986334	Femenino	Rural	Sierra Norte	De 43 a más	E	HUANCABAMBA	Piura	0	0	3,894759200000000	Norte
+2986335	Femenino	Urbano	Costa Norte	De 26 a 42	C	CASTILLA	Piura	0	0	1,157352900000000	Norte
+2986336	Femenino	Urbano	Lima	De 26 a 42	C	ATE	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986338	Masculino	Urbano	Costa Centro	De 18 a 25	D	HUAURA	Lima Provincias	0	0	1,080154500000000	Centro
+2986342	Femenino	Urbano	Costa Centro	De 18 a 25	D	IMPERIAL	Lima Provincias	0	0	1,080154500000000	Centro
+2986343	Femenino	Urbano	Costa Centro	De 43 a más	C	IMPERIAL	Lima Provincias	0	0	1,928532600000000	Centro
+2986345	Femenino	Rural	Sierra Centro	De 43 a más	E	HUACHAC	Junin	0	0	1,939897400000000	Centro
+2986349	Femenino	Urbano	Sierra Centro	De 18 a 25	E	CHAUPIMARCA	Pasco	0	0	1,168026700000000	Centro
+2986359	Femenino	Urbano	Costa Norte	De 26 a 42	B	TRUJILLO	La Libertad	0	0	0,687797400000000	Norte
+2986360	Masculino	Urbano	Oriente	De 26 a 42	E	CALLERIA	Ucayali	0	0	0,876358600000000	Oriente
+2986361	Masculino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2986362	Femenino	Urbano	Lima	De 43 a más	C	CALLAO	Lima y Callao	Callao	0	0,844042600000000	Lima
+2986363	Masculino	Urbano	Lima	De 43 a más	B	CALLAO	Lima y Callao	Callao	0	0,722194300000000	Lima
+2986364	Femenino	Urbano	Lima	De 26 a 42	C	CALLAO	Lima y Callao	Callao	0	0,844042600000000	Lima
+2986365	Femenino	Urbano	Lima	De 26 a 42	C	CALLAO	Lima y Callao	Callao	0	0,844042600000000	Lima
+2986366	Masculino	Urbano	Lima	De 18 a 25	D	CALLAO	Lima y Callao	Callao	0	0,888577500000000	Lima
+2986367	Femenino	Urbano	Lima	De 18 a 25	C	CALLAO	Lima y Callao	Callao	0	0,844042600000000	Lima
+2986368	Femenino	Urbano	Lima	De 43 a más	D	CALLAO	Lima y Callao	Callao	0	0,888577500000000	Lima
+2986369	Masculino	Urbano	Lima	De 43 a más	E	CALLAO	Lima y Callao	Callao	0	0,570573400000000	Lima
+2986370	Masculino	Urbano	Lima	De 26 a 42	D	CALLAO	Lima y Callao	Callao	0	0,888577500000000	Lima
+2986371	Masculino	Urbano	Lima	De 26 a 42	C	CALLAO	Lima y Callao	Callao	0	0,844042600000000	Lima
+2986372	Masculino	Urbano	Lima	De 43 a más	C	BELLAVISTA	Lima y Callao	Callao	0	0,844042600000000	Lima
+2986374	Masculino	Urbano	Costa Norte	De 43 a más	C	PUCALÁ	Lambayeque	0	0	1,157352900000000	Norte
+2986376	Masculino	Urbano	Lima	De 43 a más	C	INDEPENDENCIA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986377	Masculino	Urbano	Oriente	De 26 a 42	E	JAEN	Cajamarca	0	0	0,876358600000000	Oriente
+2986379	Femenino	Rural	Sierra Norte	De 26 a 42	B	OLLEROS	Áncash	0	0	0,003948800000000	Norte
+2986380	Masculino	Rural	Oriente	De 26 a 42	E	SAN IGNACIO	Cajamarca	0	0	1,918359300000000	Oriente
+2986382	Masculino	Rural	Costa Norte	De 43 a más	E	LAS LOMAS	Piura	0	0	1,565301300000000	Norte
+2986383	Masculino	Urbano	Costa Norte	De 43 a más	D	JOSE LEONARDO ORTIZ	Lambayeque	0	0	1,593514800000000	Norte
+2986384	Masculino	Rural	Sierra Centro	De 26 a 42	C	ACORIA	Huancavelica	0	0	1,031272100000000	Centro
+2986385	Femenino	Rural	Sierra Centro	De 26 a 42	E	ACORIA	Huancavelica	0	0	1,939897400000000	Centro
+2986386	Femenino	Rural	Oriente	De 26 a 42	E	ARAMANGO	Amazonas	0	0	1,918359300000000	Oriente
+2986387	Femenino	Rural	Sierra Centro	De 26 a 42	B	ACORIA	Huancavelica	0	0	0,043645100000000	Centro
+2986388	Masculino	Rural	Sierra Centro	De 43 a más	E	ACORIA	Huancavelica	0	0	1,939897400000000	Centro
+2986389	Femenino	Rural	Sierra Centro	De 43 a más	E	ACORIA	Huancavelica	0	0	1,939897400000000	Centro
+2986390	Masculino	Rural	Sierra Centro	De 26 a 42	E	ACORIA	Huancavelica	0	0	1,939897400000000	Centro
+2986391	Femenino	Urbano	Lima	De 18 a 25	D	PUENTE PIEDRA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,888577500000000	Lima
+2986392	Femenino	Rural	Sierra Centro	De 43 a más	E	ACORIA	Huancavelica	0	0	1,939897400000000	Centro
+2986393	Masculino	Rural	Sierra Centro	De 43 a más	E	ACORIA	Huancavelica	0	0	1,939897400000000	Centro
+2986395	Femenino	Urbano	Costa Norte	De 26 a 42	B	CHICLAYO	Lambayeque	0	0	0,687797400000000	Norte
+2986396	Masculino	Urbano	Sierra Sur	De 26 a 42	C	SAN SEBASTIAN	Cusco	0	0	1,432073600000000	Sur
+2986397	Femenino	Urbano	Sierra Sur	De 26 a 42	C	SAN SEBASTIAN	Cusco	0	0	1,432073600000000	Sur
+2986398	Masculino	Urbano	Sierra Sur	De 26 a 42	C	SAN SEBASTIAN	Cusco	0	0	1,432073600000000	Sur
+2986400	Masculino	Urbano	Sierra Centro	De 43 a más	C	CHAUPIMARCA	Pasco	0	0	0,828176700000000	Centro
+2986401	Femenino	Urbano	Oriente	De 18 a 25	C	IQUITOS	Loreto	0	0	1,185484800000000	Oriente
+2986402	Masculino	Urbano	Sierra Norte	De 43 a más	C	INDEPENDENCIA	Áncash	0	0	0,668269300000000	Norte
+2986403	Femenino	Urbano	Sierra Norte	De 18 a 25	D	INDEPENDENCIA	Áncash	0	0	1,962472000000000	Norte
+2986404	Masculino	Urbano	Sierra Norte	De 43 a más	E	INDEPENDENCIA	Áncash	0	0	0,714354900000000	Norte
+2986405	Masculino	Urbano	Costa Norte	De 43 a más	C	LAMBAYEQUE	Lambayeque	0	0	1,157352900000000	Norte
+2986406	Femenino	Urbano	Sierra Norte	De 43 a más	C	INDEPENDENCIA	Áncash	0	0	0,668269300000000	Norte
+2986407	Femenino	Urbano	Costa Norte	De 26 a 42	C	CASTILLA	Piura	0	0	1,157352900000000	Norte
+2986408	Femenino	Urbano	Sierra Norte	De 43 a más	B	INDEPENDENCIA	Áncash	0	0	1,435301200000000	Norte
+2986409	Masculino	Urbano	Costa Norte	De 43 a más	C	LAMBAYEQUE	Lambayeque	0	0	1,157352900000000	Norte
+2986410	Masculino	Urbano	Sierra Norte	De 26 a 42	C	INDEPENDENCIA	Áncash	0	0	0,668269300000000	Norte
+2986411	Femenino	Urbano	Sierra Norte	De 26 a 42	D	INDEPENDENCIA	Áncash	0	0	1,962472000000000	Norte
+2986412	Masculino	Urbano	Sierra Norte	De 26 a 42	C	INDEPENDENCIA	Áncash	0	0	0,668269300000000	Norte
+2986413	Masculino	Urbano	Sierra Norte	De 26 a 42	C	INDEPENDENCIA	Áncash	0	0	0,668269300000000	Norte
+2986415	Femenino	Urbano	Lima	De 43 a más	E	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,570573400000000	Lima
+2986416	Femenino	Urbano	Costa Sur	De 26 a 42	B	MARIANO MELGAR	Arequipa	0	0	0,397898100000000	Sur
+2986417	Femenino	Urbano	Costa Sur	De 26 a 42	B	MARIANO MELGAR	Arequipa	0	0	0,397898100000000	Sur
+2986418	Masculino	Urbano	Costa Sur	De 43 a más	B	MARIANO MELGAR	Arequipa	0	0	0,397898100000000	Sur
+2986420	Masculino	Urbano	Lima	De 43 a más	C	CARABAYLLO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986421	Femenino	Urbano	Lima	De 26 a 42	C	CARABAYLLO	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2986422	Femenino	Urbano	Lima	De 26 a 42	D	CARABAYLLO	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2986423	Masculino	Urbano	Lima	De 26 a 42	C	CARABAYLLO	Lima y Callao	Lima	Omar Chehade por Alianza por el Progreso (APP)	0,844042600000000	Lima
+2986424	Masculino	Urbano	Lima	De 18 a 25	D	CARABAYLLO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,888577500000000	Lima
+2986425	Femenino	Urbano	Lima	De 26 a 42	C	ATE	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2986426	Femenino	Urbano	Lima	De 43 a más	C	LIMA	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986427	Femenino	Urbano	Lima	De 43 a más	C	COMAS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986428	Femenino	Urbano	Lima	De 43 a más	D	COMAS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,888577500000000	Lima
+2986429	Masculino	Urbano	Lima	De 43 a más	C	COMAS	Lima y Callao	Lima	Yuri Castro por Perú Libre	0,844042600000000	Lima
+2986430	Femenino	Urbano	Lima	De 26 a 42	C	COMAS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986431	Femenino	Urbano	Lima	De 43 a más	C	COMAS	Lima y Callao	Lima	Yuri Castro por Perú Libre	0,844042600000000	Lima
+2986432	Masculino	Urbano	Lima	De 43 a más	D	CARABAYLLO	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2986433	Femenino	Urbano	Lima	De 26 a 42	C	COMAS	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986434	Masculino	Urbano	Lima	De 43 a más	C	COMAS	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986435	Masculino	Urbano	Lima	De 18 a 25	B	COMAS	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986436	Masculino	Urbano	Lima	De 26 a 42	C	COMAS	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986437	Masculino	Urbano	Lima	De 18 a 25	C	COMAS	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2986438	Femenino	Urbano	Lima	De 26 a 42	B	ATE	Lima y Callao	Lima	Omar Chehade por Alianza por el Progreso (APP)	0,722194300000000	Lima
+2986440	Femenino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986441	Masculino	Urbano	Lima	De 18 a 25	C	VILLA EL SALVADOR	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986442	Femenino	Urbano	Costa Centro	De 26 a 42	E	BARRANCA	Lima Provincias	0	0	0,686267700000000	Centro
+2986443	Masculino	Urbano	Costa Centro	De 18 a 25	D	BARRANCA	Lima Provincias	0	0	1,080154500000000	Centro
+2986445	Femenino	Rural	Sierra Sur	De 18 a 25	E	MARANGANI	Cusco	0	0	2,078454000000000	Sur
+2986446	Masculino	Urbano	Costa Norte	De 26 a 42	D	PUCALÁ	Lambayeque	0	0	1,593514800000000	Norte
+2986447	Masculino	Urbano	Costa Sur	De 43 a más	B	YANAHUARA	Arequipa	0	0	0,397898100000000	Sur
+2986449	Masculino	Rural	Costa Norte	De 26 a 42	B	LAS LOMAS	Piura	0	0	0,071079200000000	Norte
+2986450	Femenino	Urbano	Costa Norte	De 26 a 42	C	CHICLAYO	Lambayeque	0	0	1,157352900000000	Norte
+2986452	Femenino	Urbano	Lima	De 43 a más	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2986453	Masculino	Urbano	Lima	De 43 a más	C	SANTA ANITA	Lima y Callao	Lima	Gonzalo Alegria por Juntos por el Perú	0,844042600000000	Lima
+2986454	Masculino	Rural	Oriente	De 43 a más	D	ARAMANGO	Amazonas	0	0	0,964468300000000	Oriente
+2986455	Femenino	Urbano	Oriente	De 26 a 42	D	JAEN	Cajamarca	0	0	1,605392500000000	Oriente
+2986457	Femenino	Urbano	Costa Norte	De 26 a 42	D	TRUJILLO	La Libertad	0	0	1,593514800000000	Norte
+2986458	Masculino	Urbano	Costa Norte	De 43 a más	E	PACANGA	La Libertad	0	0	0,921439700000000	Norte
+2986459	Masculino	Urbano	Costa Norte	De 43 a más	D	PACANGA	La Libertad	0	0	1,593514800000000	Norte
+2986460	Femenino	Urbano	Costa Norte	De 43 a más	E	PACANGA	La Libertad	0	0	0,921439700000000	Norte
+2986461	Masculino	Urbano	Costa Norte	De 26 a 42	E	PACANGA	La Libertad	0	0	0,921439700000000	Norte
+2986462	Masculino	Urbano	Costa Norte	De 43 a más	B	SULLANA	Piura	0	0	0,687797400000000	Norte
+2986463	Femenino	Rural	Sierra Norte	De 26 a 42	E	OLLEROS	Áncash	0	0	3,894759200000000	Norte
+2986464	Femenino	Urbano	Lima	De 18 a 25	C	INDEPENDENCIA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986465	Masculino	Urbano	Oriente	De 43 a más	E	CALLERIA	Ucayali	0	0	0,876358600000000	Oriente
+2986466	Femenino	Rural	Sierra Centro	De 18 a 25	E	ACORIA	Huancavelica	0	0	1,939897400000000	Centro
+2986467	Femenino	Urbano	Costa Sur	De 18 a 25	D	PAUCARPATA	Arequipa	0	0	1,281259500000000	Sur
+2986469	Masculino	Urbano	Costa Centro	De 43 a más	B	ICA	Ica	0	0	1,133942000000000	Centro
+2986470	Masculino	Urbano	Costa Sur	De 26 a 42	D	CERRO COLORADO	Arequipa	0	0	1,281259500000000	Sur
+2986471	Masculino	Urbano	Lima	De 43 a más	C	BREÑA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986473	Femenino	Urbano	Costa Centro	De 43 a más	B	HUAURA	Lima Provincias	0	0	1,133942000000000	Centro
+2986474	Femenino	Urbano	Costa Norte	De 26 a 42	C	LA ESPERANZA	La Libertad	0	0	1,157352900000000	Norte
+2986475	Masculino	Urbano	Costa Norte	De 26 a 42	C	LA ESPERANZA	La Libertad	0	0	1,157352900000000	Norte
+2986476	Femenino	Urbano	Lima	De 26 a 42	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,888577500000000	Lima
+2986477	Femenino	Urbano	Lima	De 26 a 42	C	INDEPENDENCIA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986478	Femenino	Urbano	Lima	De 43 a más	B	MAGDALENA DEL MAR	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986479	Masculino	Urbano	Lima	De 43 a más	C	MAGDALENA DEL MAR	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2986480	Masculino	Urbano	Lima	De 43 a más	B	MAGDALENA DEL MAR	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986481	Femenino	Urbano	Lima	De 43 a más	B	MAGDALENA DEL MAR	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986482	Masculino	Urbano	Lima	De 18 a 25	B	MAGDALENA DEL MAR	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986483	Femenino	Urbano	Lima	De 18 a 25	B	MAGDALENA DEL MAR	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986484	Femenino	Urbano	Lima	De 43 a más	D	ATE	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,888577500000000	Lima
+2986485	Femenino	Urbano	Lima	De 26 a 42	C	ATE	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2986486	Femenino	Urbano	Lima	De 26 a 42	E	VENTANILLA	Lima y Callao	Callao	0	0,570573400000000	Lima
+2986487	Masculino	Urbano	Lima	De 43 a más	D	LOS OLIVOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,888577500000000	Lima
+2986488	Femenino	Urbano	Sierra Sur	De 26 a 42	D	SAN SEBASTIAN	Cusco	0	0	1,128476000000000	Sur
+2986489	Femenino	Urbano	Lima	De 18 a 25	C	ATE	Lima y Callao	Lima	Gonzalo Alegria por Juntos por el Perú	0,844042600000000	Lima
+2986490	Masculino	Rural	Oriente	De 26 a 42	E	ARAMANGO	Amazonas	0	0	1,918359300000000	Oriente
+2986492	Masculino	Urbano	Costa Norte	De 18 a 25	C	CASTILLA	Piura	0	0	1,157352900000000	Norte
+2986493	Masculino	Urbano	Costa Norte	De 43 a más	B	JOSE LEONARDO ORTIZ	Lambayeque	0	0	0,687797400000000	Norte
+2986494	Femenino	Urbano	Lima	De 18 a 25	A	MIRAFLORES	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986495	Femenino	Urbano	Lima	De 26 a 42	B	SANTA ANITA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986496	Femenino	Urbano	Lima	De 43 a más	C	EL AGUSTINO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986497	Masculino	Urbano	Oriente	De 18 a 25	C	YARINACOCHA	Ucayali	0	0	1,185484800000000	Oriente
+2986498	Masculino	Rural	Sierra Norte	De 26 a 42	E	OLLEROS	Áncash	0	0	3,894759200000000	Norte
+2986500	Masculino	Urbano	Costa Norte	De 43 a más	C	SULLANA	Piura	0	0	1,157352900000000	Norte
+2986501	Femenino	Rural	Sierra Sur	De 18 a 25	D	MARANGANI	Cusco	0	0	0,371711000000000	Sur
+2986502	Masculino	Urbano	Costa Sur	De 18 a 25	B	YANAHUARA	Arequipa	0	0	0,397898100000000	Sur
+2986506	Femenino	Urbano	Lima	De 26 a 42	B	MAGDALENA VIEJA	Lima y Callao	Lima	Omar Chehade por Alianza por el Progreso (APP)	0,722194300000000	Lima
+2986507	Masculino	Urbano	Lima	De 43 a más	E	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	Gonzalo Alegria por Juntos por el Perú	0,570573400000000	Lima
+2986508	Masculino	Urbano	Lima	De 43 a más	B	MAGDALENA VIEJA	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986510	Masculino	Urbano	Costa Centro	De 26 a 42	E	IMPERIAL	Lima Provincias	0	0	0,686267700000000	Centro
+2986511	Masculino	Urbano	Costa Centro	De 43 a más	E	IMPERIAL	Lima Provincias	0	0	0,686267700000000	Centro
+2986513	Masculino	Urbano	Sierra Centro	De 43 a más	E	HUANCAVELICA	Huancavelica	0	0	1,168026700000000	Centro
+2986515	Masculino	Urbano	Lima	De 43 a más	B	PUENTE PIEDRA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986516	Femenino	Urbano	Costa Norte	De 26 a 42	C	LA ESPERANZA	La Libertad	0	0	1,157352900000000	Norte
+2986518	Femenino	Urbano	Costa Centro	De 43 a más	D	ICA	Ica	0	0	1,080154500000000	Centro
+2986519	Femenino	Rural	Sierra Norte	De 18 a 25	E	HUANCABAMBA	Piura	0	0	3,894759200000000	Norte
+2986520	Femenino	Urbano	Lima	De 26 a 42	C	BELLAVISTA	Lima y Callao	Callao	0	0,844042600000000	Lima
+2986521	Femenino	Urbano	Costa Norte	De 26 a 42	E	CHICLAYO	Lambayeque	0	0	0,921439700000000	Norte
+2986522	Femenino	Urbano	Costa Centro	De 26 a 42	B	HUAURA	Lima Provincias	0	0	1,133942000000000	Centro
+2986524	Femenino	Urbano	Oriente	De 43 a más	E	CALLERIA	Ucayali	0	0	0,876358600000000	Oriente
+2986526	Femenino	Urbano	Costa Norte	De 43 a más	D	JOSE LEONARDO ORTIZ	Lambayeque	0	0	1,593514800000000	Norte
+2986527	Femenino	Rural	Oriente	De 18 a 25	E	ARAMANGO	Amazonas	0	0	1,918359300000000	Oriente
+2986529	Masculino	Urbano	Lima	De 26 a 42	B	LOS OLIVOS	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986534	Femenino	Urbano	Costa Norte	De 43 a más	D	PARIÑAS	Piura	0	0	1,593514800000000	Norte
+2986535	Masculino	Urbano	Costa Norte	De 43 a más	D	PUCALÁ	Lambayeque	0	0	1,593514800000000	Norte
+2986538	Masculino	Urbano	Lima	De 26 a 42	C	BREÑA	Lima y Callao	Lima	Elizabeth León por Frente de la Esperanza	0,844042600000000	Lima
+2986540	Masculino	Urbano	Costa Sur	De 43 a más	D	PAUCARPATA	Arequipa	0	0	1,281259500000000	Sur
+2986541	Femenino	Rural	Costa Norte	De 43 a más	D	LAS LOMAS	Piura	0	0	0,649190100000000	Norte
+2986543	Femenino	Urbano	Lima	De 26 a 42	D	INDEPENDENCIA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2986544	Femenino	Urbano	Lima	De 26 a 42	E	INDEPENDENCIA	Lima y Callao	Lima	No precisa	0,570573400000000	Lima
+2986546	Masculino	Rural	Oriente	De 26 a 42	D	SAN IGNACIO	Cajamarca	0	0	0,964468300000000	Oriente
+2986550	Femenino	Urbano	Lima	De 18 a 25	D	SANTA ANITA	Lima y Callao	Lima	Gonzalo Alegria por Juntos por el Perú	0,888577500000000	Lima
+2986551	Femenino	Urbano	Sierra Sur	De 43 a más	B	SAN SEBASTIAN	Cusco	0	0	1,280949800000000	Sur
+2986552	Femenino	Urbano	Oriente	De 43 a más	D	IQUITOS	Loreto	0	0	1,605392500000000	Oriente
+2986553	Masculino	Urbano	Sierra Centro	De 43 a más	B	HUANCAVELICA	Huancavelica	0	0	0,381243000000000	Centro
+2986554	Masculino	Urbano	Lima	De 26 a 42	E	CARABAYLLO	Lima y Callao	Lima	Yuri Castro por Perú Libre	0,570573400000000	Lima
+2986555	Femenino	Urbano	Sierra Norte	De 18 a 25	E	HUARI	Áncash	0	0	0,714354900000000	Norte
+2986556	Femenino	Urbano	Sierra Norte	De 26 a 42	E	HUARI	Áncash	0	0	0,714354900000000	Norte
+2986557	Masculino	Urbano	Sierra Norte	De 18 a 25	E	HUARI	Áncash	0	0	0,714354900000000	Norte
+2986558	Masculino	Urbano	Sierra Norte	De 43 a más	C	HUARI	Áncash	0	0	0,668269300000000	Norte
+2986559	Femenino	Urbano	Sierra Norte	De 26 a 42	E	HUARI	Áncash	0	0	0,714354900000000	Norte
+2986560	Masculino	Urbano	Sierra Norte	De 26 a 42	C	HUARI	Áncash	0	0	0,668269300000000	Norte
+2986561	Masculino	Urbano	Sierra Norte	De 26 a 42	D	HUARI	Áncash	0	0	1,962472000000000	Norte
+2986562	Masculino	Urbano	Sierra Norte	De 43 a más	B	HUARI	Áncash	0	0	1,435301200000000	Norte
+2986563	Femenino	Urbano	Sierra Norte	De 43 a más	E	HUARI	Áncash	0	0	0,714354900000000	Norte
+2986564	Femenino	Urbano	Sierra Norte	De 43 a más	C	HUARI	Áncash	0	0	0,668269300000000	Norte
+2986565	Masculino	Urbano	Lima	De 26 a 42	E	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,570573400000000	Lima
+2986566	Masculino	Urbano	Lima	De 26 a 42	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2986567	Masculino	Rural	Sierra Sur	De 43 a más	E	MARANGANI	Cusco	0	0	2,078454000000000	Sur
+2986569	Masculino	Rural	Oriente	De 26 a 42	E	ARAMANGO	Amazonas	0	0	1,918359300000000	Oriente
+2986574	Masculino	Urbano	Costa Sur	De 18 a 25	C	TACNA	Tacna	0	0	1,898521500000000	Sur
+2986575	Masculino	Rural	Sierra Norte	De 43 a más	E	OLLEROS	Áncash	0	0	3,894759200000000	Norte
+2986576	Femenino	Urbano	Lima	De 18 a 25	B	BELLAVISTA	Lima y Callao	Callao	0	0,722194300000000	Lima
+2986577	Femenino	Urbano	Lima	De 43 a más	C	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986578	Femenino	Urbano	Lima	De 43 a más	B	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2986579	Femenino	Urbano	Lima	De 18 a 25	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2986582	Masculino	Urbano	Lima	De 43 a más	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986612	Masculino	Urbano	Lima	De 26 a 42	A	LA MOLINA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986613	Masculino	Urbano	Lima	De 26 a 42	C	VILLA EL SALVADOR	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986614	Femenino	Rural	Oriente	De 26 a 42	E	ALONSO DE ALVARADO	San Martin	0	0	1,918359300000000	Oriente
+2986615	Femenino	Rural	Oriente	De 26 a 42	E	ALONSO DE ALVARADO	San Martin	0	0	1,918359300000000	Oriente
+2986617	Femenino	Rural	Oriente	De 43 a más	E	ALONSO DE ALVARADO	San Martin	0	0	1,918359300000000	Oriente
+2986620	Masculino	Urbano	Lima	De 26 a 42	B	ATE	Lima y Callao	Lima	Omar Chehade por Alianza por el Progreso (APP)	0,722194300000000	Lima
+2986626	Masculino	Urbano	Lima	De 26 a 42	C	ATE	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986627	Masculino	Urbano	Lima	De 43 a más	A	SAN ISIDRO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986628	Femenino	Rural	Sierra Norte	De 18 a 25	E	QUILLO	Áncash	0	0	3,894759200000000	Norte
+2986629	Femenino	Rural	Sierra Norte	De 18 a 25	C	QUILLO	Áncash	0	0	0,029980000000000	Norte
+2986630	Masculino	Rural	Sierra Norte	De 26 a 42	C	QUILLO	Áncash	0	0	0,029980000000000	Norte
+2986631	Masculino	Rural	Sierra Norte	De 43 a más	E	QUILLO	Áncash	0	0	3,894759200000000	Norte
+2986632	Masculino	Rural	Sierra Norte	De 26 a 42	E	QUILLO	Áncash	0	0	3,894759200000000	Norte
+2986634	Masculino	Urbano	Costa Sur	De 43 a más	D	CERRO COLORADO	Arequipa	0	0	1,281259500000000	Sur
+2986635	Masculino	Urbano	Oriente	De 43 a más	D	IQUITOS	Loreto	0	0	1,605392500000000	Oriente
+2986636	Femenino	Urbano	Costa Sur	De 26 a 42	C	YANAHUARA	Arequipa	0	0	1,898521500000000	Sur
+2986638	Masculino	Urbano	Costa Sur	De 26 a 42	B	MARIANO MELGAR	Arequipa	0	0	0,397898100000000	Sur
+2986639	Femenino	Urbano	Costa Sur	De 43 a más	E	MARIANO MELGAR	Arequipa	0	0	1,536620300000000	Sur
+2986640	Femenino	Urbano	Costa Sur	De 18 a 25	C	MARIANO MELGAR	Arequipa	0	0	1,898521500000000	Sur
+2986641	Masculino	Urbano	Sierra Centro	De 26 a 42	E	EL TAMBO	Junin	0	0	1,168026700000000	Centro
+2986642	Masculino	Rural	Costa Norte	De 43 a más	C	LAS LOMAS	Piura	0	0	0,115971300000000	Norte
+2986643	Masculino	Rural	Oriente	De 43 a más	B	ECHARATE	Cusco	0	0	0,038033600000000	Oriente
+2986644	Femenino	Rural	Oriente	De 26 a 42	D	ECHARATE	Cusco	0	0	0,964468300000000	Oriente
+2986645	Masculino	Rural	Oriente	De 43 a más	E	ECHARATE	Cusco	0	0	1,918359300000000	Oriente
+2986646	Masculino	Urbano	Costa Norte	De 43 a más	B	JOSE LEONARDO ORTIZ	Lambayeque	0	0	0,687797400000000	Norte
+2986648	Femenino	Urbano	Lima	De 26 a 42	E	INDEPENDENCIA	Lima y Callao	Lima	George Forsyth por Somos Perú	0,570573400000000	Lima
+2986649	Femenino	Urbano	Lima	De 43 a más	C	BARRANCO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986650	Femenino	Urbano	Lima	De 26 a 42	B	BARRANCO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986651	Masculino	Urbano	Lima	De 26 a 42	C	BARRANCO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986654	Femenino	Urbano	Lima	De 43 a más	B	BARRANCO	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986655	Masculino	Urbano	Lima	De 18 a 25	C	BARRANCO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986656	Femenino	Urbano	Lima	De 43 a más	B	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986661	Femenino	Urbano	Sierra Centro	De 43 a más	B	HUÁNUCO	Huánuco	0	0	0,381243000000000	Centro
+2986662	Masculino	Urbano	Sierra Centro	De 18 a 25	B	HUÁNUCO	Huánuco	0	0	0,381243000000000	Centro
+2986663	Femenino	Urbano	Sierra Centro	De 43 a más	E	HUÁNUCO	Huánuco	0	0	1,168026700000000	Centro
+2986664	Masculino	Urbano	Sierra Centro	De 18 a 25	E	HUÁNUCO	Huánuco	0	0	1,168026700000000	Centro
+2986665	Masculino	Urbano	Sierra Centro	De 43 a más	D	HUÁNUCO	Huánuco	0	0	2,083386900000000	Centro
+2986666	Masculino	Urbano	Costa Centro	De 43 a más	C	ICA	Ica	0	0	1,928532600000000	Centro
+2986667	Masculino	Urbano	Lima	De 26 a 42	C	CARABAYLLO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986668	Masculino	Urbano	Costa Centro	De 43 a más	D	IMPERIAL	Lima Provincias	0	0	1,080154500000000	Centro
+2986669	Femenino	Rural	Oriente	De 43 a más	E	ARAMANGO	Amazonas	0	0	1,918359300000000	Oriente
+2986671	Masculino	Rural	Sierra Norte	De 43 a más	E	CHOTA	Cajamarca	0	0	3,894759200000000	Norte
+2986672	Masculino	Rural	Sierra Norte	De 26 a 42	B	CHOTA	Cajamarca	0	0	0,003948800000000	Norte
+2986673	Masculino	Rural	Sierra Norte	De 26 a 42	C	CHOTA	Cajamarca	0	0	0,029980000000000	Norte
+2986674	Masculino	Rural	Sierra Norte	De 43 a más	C	CHOTA	Cajamarca	0	0	0,029980000000000	Norte
+2986675	Femenino	Urbano	Costa Centro	De 43 a más	C	HUAURA	Lima Provincias	0	0	1,928532600000000	Centro
+2986676	Femenino	Urbano	Lima	De 43 a más	C	BELLAVISTA	Lima y Callao	Callao	0	0,844042600000000	Lima
+2986678	Masculino	Urbano	Costa Centro	De 26 a 42	E	BARRANCA	Lima Provincias	0	0	0,686267700000000	Centro
+2986680	Femenino	Urbano	Lima	De 43 a más	A	MIRAFLORES	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986681	Femenino	Urbano	Lima	De 43 a más	C	BREÑA	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2986682	Femenino	Urbano	Lima	De 26 a 42	E	PUENTE PIEDRA	Lima y Callao	Lima	Yuri Castro por Perú Libre	0,570573400000000	Lima
+2986683	Femenino	Rural	Sierra Sur	De 26 a 42	D	MARANGANI	Cusco	0	0	0,371711000000000	Sur
+2986684	Masculino	Urbano	Lima	De 26 a 42	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2986686	Femenino	Urbano	Lima	De 18 a 25	D	ATE	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2986687	Femenino	Rural	Sierra Norte	De 43 a más	E	HUANCABAMBA	Piura	0	0	3,894759200000000	Norte
+2986688	Masculino	Urbano	Lima	De 43 a más	D	SAN MARTIN DE PORRES	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2986689	Masculino	Urbano	Lima	De 43 a más	C	PUENTE PIEDRA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986690	Masculino	Rural	Sierra Centro	De 18 a 25	E	ACORIA	Huancavelica	0	0	1,939897400000000	Centro
+2986693	Femenino	Urbano	Costa Norte	De 43 a más	C	EL PORVENIR	La Libertad	0	0	1,157352900000000	Norte
+2986694	Masculino	Urbano	Costa Norte	De 26 a 42	D	EL PORVENIR	La Libertad	0	0	1,593514800000000	Norte
+2986695	Masculino	Urbano	Costa Norte	De 43 a más	E	EL PORVENIR	La Libertad	0	0	0,921439700000000	Norte
+2986696	Masculino	Rural	Sierra Centro	De 26 a 42	E	HUACHAC	Junin	0	0	1,939897400000000	Centro
+2986697	Masculino	Rural	Sierra Centro	De 18 a 25	D	HUACHAC	Junin	0	0	0,931823500000000	Centro
+2986698	Masculino	Rural	Sierra Centro	De 26 a 42	D	HUACHAC	Junin	0	0	0,931823500000000	Centro
+2986699	Femenino	Urbano	Lima	De 18 a 25	B	LOS OLIVOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986700	Femenino	Urbano	Costa Norte	De 26 a 42	C	LAMBAYEQUE	Lambayeque	0	0	1,157352900000000	Norte
+2986701	Masculino	Urbano	Costa Norte	De 43 a más	B	LAMBAYEQUE	Lambayeque	0	0	0,687797400000000	Norte
+2986702	Femenino	Urbano	Lima	De 43 a más	B	LA VICTORIA	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986703	Femenino	Urbano	Lima	De 26 a 42	C	LA VICTORIA	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986704	Masculino	Urbano	Lima	De 26 a 42	C	LA VICTORIA	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986705	Masculino	Urbano	Lima	De 18 a 25	B	LA VICTORIA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986706	Femenino	Urbano	Lima	De 26 a 42	C	LA VICTORIA	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986707	Femenino	Urbano	Costa Norte	De 26 a 42	C	PARIÑAS	Piura	0	0	1,157352900000000	Norte
+2986708	Femenino	Urbano	Lima	De 26 a 42	E	VENTANILLA	Lima y Callao	Callao	0	0,570573400000000	Lima
+2986709	Femenino	Urbano	Costa Centro	De 43 a más	C	HUAURA	Lima Provincias	0	0	1,928532600000000	Centro
+2986710	Femenino	Rural	Oriente	De 43 a más	E	ARAMANGO	Amazonas	0	0	1,918359300000000	Oriente
+2986711	Masculino	Urbano	Oriente	De 26 a 42	E	YARINACOCHA	Ucayali	0	0	0,876358600000000	Oriente
+2986712	Femenino	Rural	Sierra Norte	De 43 a más	E	OLLEROS	Áncash	0	0	3,894759200000000	Norte
+2986714	Femenino	Urbano	Lima	De 26 a 42	B	EL AGUSTINO	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2986715	Femenino	Urbano	Lima	De 18 a 25	C	EL AGUSTINO	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2986716	Masculino	Urbano	Lima	De 43 a más	B	EL AGUSTINO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986717	Masculino	Urbano	Sierra Centro	De 26 a 42	E	EL TAMBO	Junin	0	0	1,168026700000000	Centro
+2986718	Masculino	Urbano	Lima	De 26 a 42	D	CARABAYLLO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,888577500000000	Lima
+2986719	Masculino	Urbano	Lima	De 18 a 25	C	CARABAYLLO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2986720	Femenino	Urbano	Lima	De 43 a más	D	CARABAYLLO	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2986721	Femenino	Urbano	Lima	De 43 a más	D	CARABAYLLO	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2986722	Femenino	Urbano	Lima	De 43 a más	E	CARABAYLLO	Lima y Callao	Lima	Blanco / Viciado	0,570573400000000	Lima
+2986723	Masculino	Urbano	Lima	De 18 a 25	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,888577500000000	Lima
+2986724	Femenino	Urbano	Lima	De 18 a 25	E	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,570573400000000	Lima
+2986727	Femenino	Rural	Sierra Sur	De 18 a 25	C	MACARI	Puno	0	0	0,169093700000000	Sur
+2986728	Masculino	Urbano	Costa Sur	De 18 a 25	C	MARIANO MELGAR	Arequipa	0	0	1,898521500000000	Sur
+2986729	Femenino	Urbano	Costa Norte	De 26 a 42	D	PUCALÁ	Lambayeque	0	0	1,593514800000000	Norte
+2986730	Masculino	Urbano	Lima	De 26 a 42	B	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986731	Femenino	Urbano	Lima	De 18 a 25	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986732	Masculino	Urbano	Sierra Centro	De 43 a más	D	HUANCAYO	Junin	0	0	2,083386900000000	Centro
+2986733	Femenino	Urbano	Sierra Centro	De 26 a 42	C	JUNÍN	Junin	0	0	0,828176700000000	Centro
+2986734	Femenino	Urbano	Lima	De 26 a 42	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2986735	Femenino	Urbano	Sierra Centro	De 26 a 42	C	JUNÍN	Junin	0	0	0,828176700000000	Centro
+2986736	Masculino	Urbano	Sierra Centro	De 43 a más	B	JUNÍN	Junin	0	0	0,381243000000000	Centro
+2986737	Femenino	Urbano	Sierra Centro	De 43 a más	C	HUANCAYO	Junin	0	0	0,828176700000000	Centro
+2986738	Femenino	Urbano	Sierra Centro	De 26 a 42	E	JUNÍN	Junin	0	0	1,168026700000000	Centro
+2986739	Masculino	Urbano	Sierra Centro	De 43 a más	C	HUANCAYO	Junin	0	0	0,828176700000000	Centro
+2986740	Femenino	Urbano	Sierra Centro	De 43 a más	B	HUANCAYO	Junin	0	0	0,381243000000000	Centro
+2986741	Masculino	Urbano	Sierra Centro	De 26 a 42	B	HUANCAYO	Junin	0	0	0,381243000000000	Centro
+2986742	Masculino	Urbano	Sierra Centro	De 18 a 25	B	HUANCAYO	Junin	0	0	0,381243000000000	Centro
+2986743	Femenino	Urbano	Sierra Centro	De 18 a 25	C	HUANCAYO	Junin	0	0	0,828176700000000	Centro
+2986744	Masculino	Urbano	Lima	De 26 a 42	B	MAGDALENA VIEJA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986745	Femenino	Urbano	Lima	De 18 a 25	B	MAGDALENA VIEJA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986746	Femenino	Urbano	Sierra Centro	De 18 a 25	C	HUANCAVELICA	Huancavelica	0	0	0,828176700000000	Centro
+2986747	Masculino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986748	Femenino	Urbano	Lima	De 43 a más	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986749	Masculino	Urbano	Lima	De 18 a 25	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986750	Masculino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2986751	Masculino	Urbano	Lima	De 43 a más	B	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2986752	Femenino	Urbano	Lima	De 43 a más	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Yuri Castro por Perú Libre	0,844042600000000	Lima
+2986753	Femenino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986754	Femenino	Urbano	Lima	De 18 a 25	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986755	Masculino	Urbano	Lima	De 18 a 25	C	LOS OLIVOS	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2986756	Femenino	Urbano	Lima	De 26 a 42	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2986757	Masculino	Urbano	Lima	De 43 a más	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,888577500000000	Lima
+2986758	Masculino	Rural	Oriente	De 18 a 25	E	ECHARATE	Cusco	0	0	1,918359300000000	Oriente
+2986759	Masculino	Urbano	Lima	De 43 a más	C	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986760	Femenino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986761	Masculino	Urbano	Lima	De 26 a 42	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,888577500000000	Lima
+2986762	Masculino	Urbano	Lima	De 43 a más	B	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986763	Masculino	Urbano	Lima	De 43 a más	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986764	Masculino	Urbano	Lima	De 43 a más	E	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,570573400000000	Lima
+2986765	Femenino	Urbano	Lima	De 43 a más	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Omar Chehade por Alianza por el Progreso (APP)	0,888577500000000	Lima
+2986766	Masculino	Urbano	Lima	De 26 a 42	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2986767	Femenino	Urbano	Costa Centro	De 43 a más	C	BARRANCA	Lima Provincias	0	0	1,928532600000000	Centro
+2986768	Masculino	Urbano	Costa Norte	De 43 a más	C	PARIÑAS	Piura	0	0	1,157352900000000	Norte
+2986769	Masculino	Urbano	Lima	De 26 a 42	E	VENTANILLA	Lima y Callao	Callao	0	0,570573400000000	Lima
+2986770	Masculino	Urbano	Lima	De 26 a 42	E	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Blanco / Viciado	0,570573400000000	Lima
+2986771	Femenino	Rural	Sierra Norte	De 43 a más	E	OLLEROS	Áncash	0	0	3,894759200000000	Norte
+2986772	Femenino	Urbano	Costa Centro	De 26 a 42	B	IMPERIAL	Lima Provincias	0	0	1,133942000000000	Centro
+2986773	Femenino	Urbano	Costa Centro	De 26 a 42	C	IMPERIAL	Lima Provincias	0	0	1,928532600000000	Centro
+2986775	Masculino	Urbano	Lima	De 43 a más	B	SAN MARTIN DE PORRES	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986776	Femenino	Urbano	Lima	De 43 a más	B	SAN MARTIN DE PORRES	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2986777	Masculino	Urbano	Lima	De 43 a más	C	SAN MARTIN DE PORRES	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986778	Masculino	Urbano	Lima	De 26 a 42	C	BREÑA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986779	Masculino	Rural	Oriente	De 18 a 25	E	ARAMANGO	Amazonas	0	0	1,918359300000000	Oriente
+2986781	Masculino	Urbano	Costa Sur	De 43 a más	B	TACNA	Tacna	0	0	0,397898100000000	Sur
+2986782	Femenino	Urbano	Costa Sur	De 26 a 42	C	TACNA	Tacna	0	0	1,898521500000000	Sur
+2986783	Femenino	Urbano	Costa Sur	De 18 a 25	D	TACNA	Tacna	0	0	1,281259500000000	Sur
+2986784	Femenino	Urbano	Lima	De 26 a 42	C	ATE	Lima y Callao	Lima	Yuri Castro por Perú Libre	0,844042600000000	Lima
+2986786	Femenino	Urbano	Costa Sur	De 18 a 25	D	CERRO COLORADO	Arequipa	0	0	1,281259500000000	Sur
+2986787	Masculino	Urbano	Costa Norte	De 26 a 42	D	LAMBAYEQUE	Lambayeque	0	0	1,593514800000000	Norte
+2986788	Femenino	Urbano	Lima	De 43 a más	B	CHORRILLOS	Lima y Callao	Lima	Omar Chehade por Alianza por el Progreso (APP)	0,722194300000000	Lima
+2986789	Femenino	Urbano	Lima	De 43 a más	C	CHORRILLOS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986790	Femenino	Urbano	Lima	De 43 a más	B	CHORRILLOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986791	Masculino	Urbano	Lima	De 26 a 42	C	CHORRILLOS	Lima y Callao	Lima	Gonzalo Alegria por Juntos por el Perú	0,844042600000000	Lima
+2986792	Masculino	Urbano	Lima	De 26 a 42	C	CHORRILLOS	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2986793	Masculino	Urbano	Lima	De 26 a 42	B	CHORRILLOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986794	Femenino	Urbano	Costa Norte	De 26 a 42	E	PACANGA	La Libertad	0	0	0,921439700000000	Norte
+2986795	Femenino	Urbano	Costa Norte	De 26 a 42	E	PACANGA	La Libertad	0	0	0,921439700000000	Norte
+2986796	Masculino	Urbano	Costa Norte	De 26 a 42	E	PACANGA	La Libertad	0	0	0,921439700000000	Norte
+2986797	Femenino	Urbano	Costa Norte	De 18 a 25	C	PACANGA	La Libertad	0	0	1,157352900000000	Norte
+2986798	Femenino	Urbano	Sierra Centro	De 26 a 42	E	EL TAMBO	Junin	0	0	1,168026700000000	Centro
+2986799	Femenino	Rural	Costa Norte	De 18 a 25	C	LAS LOMAS	Piura	0	0	0,115971300000000	Norte
+2986800	Masculino	Urbano	Oriente	De 26 a 42	C	YARINACOCHA	Ucayali	0	0	1,185484800000000	Oriente
+2986801	Masculino	Urbano	Sierra Sur	De 43 a más	C	AYACUCHO	Ayacucho	0	0	1,432073600000000	Sur
+2986802	Masculino	Urbano	Sierra Sur	De 43 a más	D	AYACUCHO	Ayacucho	0	0	1,128476000000000	Sur
+2986803	Masculino	Urbano	Sierra Sur	De 18 a 25	E	AYACUCHO	Ayacucho	0	0	0,861575700000000	Sur
+2986804	Femenino	Urbano	Sierra Sur	De 43 a más	D	AYACUCHO	Ayacucho	0	0	1,128476000000000	Sur
+2986805	Femenino	Urbano	Sierra Sur	De 26 a 42	C	AYACUCHO	Ayacucho	0	0	1,432073600000000	Sur
+2986806	Masculino	Urbano	Lima	De 26 a 42	D	PUENTE PIEDRA	Lima y Callao	Lima	George Forsyth por Somos Perú	0,888577500000000	Lima
+2986807	Femenino	Urbano	Costa Norte	De 18 a 25	C	PUCALÁ	Lambayeque	0	0	1,157352900000000	Norte
+2986808	Masculino	Rural	Sierra Sur	De 43 a más	E	MACARI	Puno	0	0	2,078454000000000	Sur
+2986809	Masculino	Urbano	Lima	De 26 a 42	C	VILLA EL SALVADOR	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2986810	Masculino	Urbano	Lima	De 43 a más	B	SAN MIGUEL	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2986811	Masculino	Urbano	Lima	De 26 a 42	B	ATE	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986812	Femenino	Urbano	Lima	De 26 a 42	D	ATE	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2986813	Femenino	Rural	Sierra Norte	De 18 a 25	E	HUANCABAMBA	Piura	0	0	3,894759200000000	Norte
+2986814	Femenino	Urbano	Lima	De 26 a 42	B	BELLAVISTA	Lima y Callao	Callao	0	0,722194300000000	Lima
+2986815	Femenino	Urbano	Sierra Centro	De 43 a más	E	HUANCAVELICA	Huancavelica	0	0	1,168026700000000	Centro
+2986816	Femenino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986817	Femenino	Urbano	Lima	De 43 a más	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986818	Femenino	Urbano	Lima	De 18 a 25	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986819	Masculino	Urbano	Costa Centro	De 43 a más	C	HUAURA	Lima Provincias	0	0	1,928532600000000	Centro
+2986820	Femenino	Urbano	Lima	De 26 a 42	B	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986821	Femenino	Urbano	Lima	De 43 a más	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2986822	Masculino	Urbano	Lima	De 18 a 25	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2986823	Masculino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986824	Masculino	Urbano	Lima	De 43 a más	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,888577500000000	Lima
+2986825	Masculino	Urbano	Lima	De 26 a 42	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2986826	Masculino	Urbano	Lima	De 43 a más	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986834	Masculino	Urbano	Lima	De 43 a más	B	EL AGUSTINO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986836	Masculino	Urbano	Lima	De 26 a 42	B	MAGDALENA DEL MAR	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986837	Masculino	Urbano	Lima	De 26 a 42	B	MAGDALENA DEL MAR	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986838	Femenino	Urbano	Lima	De 26 a 42	B	MAGDALENA DEL MAR	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986839	Femenino	Urbano	Lima	De 26 a 42	B	MAGDALENA DEL MAR	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2986840	Masculino	Urbano	Costa Centro	De 43 a más	C	ICA	Ica	0	0	1,928532600000000	Centro
+2986842	Femenino	Rural	Costa Norte	De 26 a 42	D	LAS LOMAS	Piura	0	0	0,649190100000000	Norte
+2986844	Femenino	Urbano	Lima	De 26 a 42	C	ATE	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986845	Masculino	Urbano	Costa Centro	De 18 a 25	D	PUEBLO NUEVO	Ica	0	0	1,080154500000000	Centro
+2986846	Masculino	Urbano	Costa Centro	De 43 a más	D	PUEBLO NUEVO	Ica	0	0	1,080154500000000	Centro
+2986847	Masculino	Urbano	Costa Centro	De 26 a 42	D	PUEBLO NUEVO	Ica	0	0	1,080154500000000	Centro
+2986848	Masculino	Rural	Oriente	De 26 a 42	B	ECHARATE	Cusco	0	0	0,038033600000000	Oriente
+2986849	Masculino	Urbano	Lima	De 26 a 42	B	SAN MARTIN DE PORRES	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2986850	Femenino	Urbano	Lima	De 26 a 42	B	SAN MARTIN DE PORRES	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2986851	Femenino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986852	Masculino	Rural	Sierra Sur	De 18 a 25	E	MACARI	Puno	0	0	2,078454000000000	Sur
+2986857	Masculino	Urbano	Costa Norte	De 26 a 42	E	PUCALÁ	Lambayeque	0	0	0,921439700000000	Norte
+2986858	Femenino	Rural	Sierra Centro	De 26 a 42	E	HUACHAC	Junin	0	0	1,939897400000000	Centro
+2986859	Masculino	Urbano	Costa Sur	De 26 a 42	B	TACNA	Tacna	0	0	0,397898100000000	Sur
+2986860	Femenino	Urbano	Costa Norte	De 18 a 25	E	PACANGA	La Libertad	0	0	0,921439700000000	Norte
+2986861	Masculino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2986862	Masculino	Urbano	Lima	De 43 a más	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986863	Masculino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2986864	Masculino	Rural	Sierra Sur	De 18 a 25	E	YUNGUYO	Puno	0	0	2,078454000000000	Sur
+2986865	Femenino	Urbano	Sierra Centro	De 26 a 42	B	HUANCAVELICA	Huancavelica	0	0	0,381243000000000	Centro
+2986866	Masculino	Urbano	Lima	De 43 a más	C	SURQUILLO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2986867	Femenino	Urbano	Lima	De 43 a más	B	SURQUILLO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2986868	Masculino	Urbano	Lima	De 26 a 42	B	SURQUILLO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986869	Masculino	Urbano	Lima	De 43 a más	C	SURQUILLO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986870	Masculino	Urbano	Lima	De 43 a más	B	LINCE	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986871	Femenino	Urbano	Lima	De 26 a 42	B	SURQUILLO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2986872	Masculino	Urbano	Lima	De 26 a 42	B	LINCE	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2986873	Femenino	Urbano	Lima	De 26 a 42	C	SURQUILLO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986874	Masculino	Urbano	Lima	De 43 a más	B	LINCE	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2986875	Masculino	Urbano	Lima	De 18 a 25	B	LINCE	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986876	Masculino	Urbano	Lima	De 43 a más	C	SURQUILLO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986877	Masculino	Urbano	Lima	De 26 a 42	C	SURQUILLO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986878	Masculino	Urbano	Lima	De 18 a 25	B	SURQUILLO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986879	Femenino	Urbano	Lima	De 18 a 25	C	SURQUILLO	Lima y Callao	Lima	Yuri Castro por Perú Libre	0,844042600000000	Lima
+2986880	Femenino	Urbano	Lima	De 26 a 42	B	SURQUILLO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986881	Masculino	Urbano	Lima	De 43 a más	C	BARRANCO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986882	Femenino	Urbano	Lima	De 26 a 42	B	BARRANCO	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2986884	Masculino	Urbano	Costa Norte	De 26 a 42	B	PARIÑAS	Piura	0	0	0,687797400000000	Norte
+2986885	Femenino	Rural	Costa Centro	De 26 a 42	E	EL INGENIO	Ica	0	0	0,791847300000000	Centro
+2986886	Masculino	Rural	Costa Centro	De 18 a 25	B	EL INGENIO	Ica	0	0	0,015587500000000	Centro
+2986887	Femenino	Rural	Costa Centro	De 43 a más	D	EL INGENIO	Ica	0	0	0,859185500000000	Centro
+2986888	Masculino	Rural	Costa Centro	De 43 a más	C	EL INGENIO	Ica	0	0	0,357890000000000	Centro
+2986889	Masculino	Rural	Costa Centro	De 26 a 42	B	EL INGENIO	Ica	0	0	0,015587500000000	Centro
+2986890	Femenino	Urbano	Lima	De 43 a más	C	SAN MARTIN DE PORRES	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2986891	Femenino	Urbano	Lima	De 43 a más	B	SAN MIGUEL	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986903	Masculino	Urbano	Lima	De 43 a más	C	ATE	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986920	Masculino	Urbano	Lima	De 26 a 42	B	EL AGUSTINO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986925	Masculino	Urbano	Lima	De 26 a 42	D	VILLA EL SALVADOR	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2986935	Femenino	Urbano	Lima	De 26 a 42	B	SAN MARTIN DE PORRES	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986939	Femenino	Urbano	Sierra Sur	De 26 a 42	D	SAN JERONIMO	Cusco	0	0	1,128476000000000	Sur
+2986940	Femenino	Urbano	Sierra Sur	De 26 a 42	E	SAN JERONIMO	Cusco	0	0	0,861575700000000	Sur
+2986941	Femenino	Urbano	Sierra Sur	De 18 a 25	E	SAN JERONIMO	Cusco	0	0	0,861575700000000	Sur
+2986942	Masculino	Urbano	Sierra Sur	De 18 a 25	D	SAN JERONIMO	Cusco	0	0	1,128476000000000	Sur
+2986943	Masculino	Urbano	Sierra Sur	De 26 a 42	B	SAN JERONIMO	Cusco	0	0	1,280949800000000	Sur
+2986944	Femenino	Urbano	Sierra Sur	De 43 a más	E	SAN JERONIMO	Cusco	0	0	0,861575700000000	Sur
+2986946	Femenino	Urbano	Sierra Sur	De 26 a 42	D	SAN JERONIMO	Cusco	0	0	1,128476000000000	Sur
+2986947	Femenino	Urbano	Sierra Norte	De 26 a 42	E	CAJAMARCA	Cajamarca	0	0	0,714354900000000	Norte
+2986948	Masculino	Urbano	Sierra Norte	De 26 a 42	E	CAJAMARCA	Cajamarca	0	0	0,714354900000000	Norte
+2986949	Femenino	Urbano	Lima	De 43 a más	B	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986950	Femenino	Urbano	Costa Sur	De 26 a 42	D	CERRO COLORADO	Arequipa	0	0	1,281259500000000	Sur
+2986951	Femenino	Urbano	Lima	De 26 a 42	D	BELLAVISTA	Lima y Callao	Callao	0	0,888577500000000	Lima
+2986952	Femenino	Urbano	Lima	De 26 a 42	E	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,570573400000000	Lima
+2986953	Femenino	Urbano	Lima	De 43 a más	E	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,570573400000000	Lima
+2986954	Masculino	Urbano	Lima	De 43 a más	E	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	No precisa	0,570573400000000	Lima
+2986955	Masculino	Urbano	Lima	De 43 a más	D	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,888577500000000	Lima
+2986956	Masculino	Urbano	Lima	De 43 a más	D	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2986957	Masculino	Urbano	Lima	De 26 a 42	E	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,570573400000000	Lima
+2986958	Femenino	Urbano	Lima	De 26 a 42	C	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986959	Femenino	Urbano	Lima	De 18 a 25	C	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2986960	Masculino	Urbano	Lima	De 18 a 25	C	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2986961	Femenino	Urbano	Lima	De 26 a 42	E	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,570573400000000	Lima
+2986962	Femenino	Urbano	Lima	De 18 a 25	C	COMAS	Lima y Callao	Lima	Elizabeth León por Frente de la Esperanza	0,844042600000000	Lima
+2986963	Femenino	Urbano	Oriente	De 43 a más	E	YARINACOCHA	Ucayali	0	0	0,876358600000000	Oriente
+2986964	Femenino	Urbano	Lima	De 18 a 25	C	SANTA ANITA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2986968	Femenino	Urbano	Lima	De 26 a 42	E	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Blanco / Viciado	0,570573400000000	Lima
+2986970	Masculino	Urbano	Lima	De 43 a más	B	MAGDALENA VIEJA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986971	Masculino	Urbano	Lima	De 26 a 42	B	MAGDALENA VIEJA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2986972	Masculino	Urbano	Costa Norte	De 43 a más	C	PARIÑAS	Piura	0	0	1,157352900000000	Norte
+2986973	Femenino	Rural	Sierra Sur	De 43 a más	E	MACARI	Puno	0	0	2,078454000000000	Sur
+2986974	Femenino	Urbano	Lima	De 26 a 42	C	PUENTE PIEDRA	Lima y Callao	Lima	Elizabeth León por Frente de la Esperanza	0,844042600000000	Lima
+2986976	Femenino	Urbano	Lima	De 26 a 42	B	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2986977	Femenino	Urbano	Oriente	De 26 a 42	E	TARAPOTO	San Martin	0	0	0,876358600000000	Oriente
+2986978	Femenino	Rural	Sierra Centro	De 26 a 42	E	HUACHAC	Junin	0	0	1,939897400000000	Centro
+2986979	Masculino	Urbano	Oriente	De 26 a 42	C	TARAPOTO	San Martin	0	0	1,185484800000000	Oriente
+2986980	Masculino	Urbano	Oriente	De 18 a 25	C	TARAPOTO	San Martin	0	0	1,185484800000000	Oriente
+2986981	Femenino	Urbano	Oriente	De 18 a 25	C	TARAPOTO	San Martin	0	0	1,185484800000000	Oriente
+2986982	Femenino	Urbano	Oriente	De 43 a más	C	TARAPOTO	San Martin	0	0	1,185484800000000	Oriente
+2986983	Femenino	Urbano	Oriente	De 43 a más	C	TARAPOTO	San Martin	0	0	1,185484800000000	Oriente
+2986984	Masculino	Urbano	Oriente	De 26 a 42	C	TARAPOTO	San Martin	0	0	1,185484800000000	Oriente
+2986985	Masculino	Urbano	Oriente	De 43 a más	C	TARAPOTO	San Martin	0	0	1,185484800000000	Oriente
+2986986	Femenino	Urbano	Costa Norte	De 43 a más	D	LAMBAYEQUE	Lambayeque	0	0	1,593514800000000	Norte
+2986987	Femenino	Rural	Oriente	De 26 a 42	C	SAN IGNACIO	Cajamarca	0	0	0,197204700000000	Oriente
+2986988	Masculino	Urbano	Lima	De 43 a más	D	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2986989	Masculino	Urbano	Costa Norte	De 43 a más	C	PUCALÁ	Lambayeque	0	0	1,157352900000000	Norte
+2986990	Masculino	Urbano	Lima	De 43 a más	B	ATE	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986991	Masculino	Urbano	Lima	De 26 a 42	B	EL AGUSTINO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2986992	Femenino	Rural	Sierra Sur	De 26 a 42	C	MARANGANI	Cusco	0	0	0,169093700000000	Sur
+2986993	Femenino	Rural	Sierra Sur	De 26 a 42	D	MARANGANI	Cusco	0	0	0,371711000000000	Sur
+2986994	Masculino	Rural	Sierra Sur	De 43 a más	C	MARANGANI	Cusco	0	0	0,169093700000000	Sur
+2986995	Masculino	Rural	Costa Norte	De 43 a más	D	LAS LOMAS	Piura	0	0	0,649190100000000	Norte
+2986996	Masculino	Urbano	Oriente	De 43 a más	E	CHANCHAMAYO	Junin	0	0	0,876358600000000	Oriente
+2986997	Masculino	Urbano	Oriente	De 18 a 25	B	CHANCHAMAYO	Junin	0	0	1,097862000000000	Oriente
+2986998	Masculino	Urbano	Oriente	De 43 a más	E	CHANCHAMAYO	Junin	0	0	0,876358600000000	Oriente
+2986999	Masculino	Urbano	Oriente	De 26 a 42	B	CHANCHAMAYO	Junin	0	0	1,097862000000000	Oriente
+2987000	Femenino	Urbano	Oriente	De 26 a 42	B	CHANCHAMAYO	Junin	0	0	1,097862000000000	Oriente
+2987001	Femenino	Urbano	Oriente	De 43 a más	E	CHANCHAMAYO	Junin	0	0	0,876358600000000	Oriente
+2987002	Femenino	Urbano	Oriente	De 43 a más	E	CHANCHAMAYO	Junin	0	0	0,876358600000000	Oriente
+2987003	Masculino	Urbano	Sierra Sur	De 18 a 25	D	SAN SEBASTIAN	Cusco	0	0	1,128476000000000	Sur
+2987004	Femenino	Urbano	Oriente	De 26 a 42	E	CHANCHAMAYO	Junin	0	0	0,876358600000000	Oriente
+2987005	Femenino	Urbano	Oriente	De 18 a 25	E	CHANCHAMAYO	Junin	0	0	0,876358600000000	Oriente
+2987006	Masculino	Urbano	Oriente	De 26 a 42	D	CHANCHAMAYO	Junin	0	0	1,605392500000000	Oriente
+2987007	Femenino	Urbano	Sierra Norte	De 18 a 25	E	CAJAMARCA	Cajamarca	0	0	0,714354900000000	Norte
+2987008	Masculino	Urbano	Sierra Sur	De 43 a más	D	SAN JERONIMO	Cusco	0	0	1,128476000000000	Sur
+2987009	Masculino	Urbano	Lima	De 26 a 42	D	COMAS	Lima y Callao	Lima	George Forsyth por Somos Perú	0,888577500000000	Lima
+2987010	Femenino	Urbano	Lima	De 43 a más	B	COMAS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987011	Masculino	Urbano	Oriente	De 18 a 25	C	IQUITOS	Loreto	0	0	1,185484800000000	Oriente
+2987012	Femenino	Urbano	Oriente	De 43 a más	C	IQUITOS	Loreto	0	0	1,185484800000000	Oriente
+2987013	Masculino	Urbano	Lima	De 43 a más	B	JESUS MARIA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987014	Femenino	Urbano	Lima	De 18 a 25	B	JESUS MARIA	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2987015	Masculino	Urbano	Lima	De 26 a 42	B	JESUS MARIA	Lima y Callao	Lima	Gonzalo Alegria por Juntos por el Perú	0,722194300000000	Lima
+2987016	Masculino	Urbano	Lima	De 43 a más	B	JESUS MARIA	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2987017	Masculino	Urbano	Lima	De 43 a más	C	JESUS MARIA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987018	Femenino	Urbano	Lima	De 43 a más	B	JESUS MARIA	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2987019	Masculino	Urbano	Lima	De 26 a 42	B	JESUS MARIA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987020	Femenino	Urbano	Sierra Centro	De 43 a más	B	HUANCAVELICA	Huancavelica	0	0	0,381243000000000	Centro
+2987021	Masculino	Urbano	Lima	De 26 a 42	B	VILLA EL SALVADOR	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987022	Masculino	Urbano	Lima	De 43 a más	B	ATE	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2987023	Femenino	Rural	Sierra Sur	De 43 a más	E	YUNGUYO	Puno	0	0	2,078454000000000	Sur
+2987024	Femenino	Urbano	Lima	De 43 a más	A	SANTIAGO DE SURCO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2987025	Masculino	Urbano	Costa Norte	De 43 a más	D	PARIÑAS	Piura	0	0	1,593514800000000	Norte
+2987027	Femenino	Urbano	Oriente	De 18 a 25	D	YARINACOCHA	Ucayali	0	0	1,605392500000000	Oriente
+2987028	Femenino	Urbano	Lima	De 43 a más	C	CHORRILLOS	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2987029	Femenino	Urbano	Lima	De 43 a más	C	CHORRILLOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987030	Masculino	Urbano	Lima	De 26 a 42	C	CHORRILLOS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987031	Masculino	Urbano	Lima	De 26 a 42	B	CHORRILLOS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987032	Masculino	Urbano	Lima	De 18 a 25	C	CHORRILLOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987033	Masculino	Urbano	Lima	De 18 a 25	C	CHORRILLOS	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987047	Masculino	Urbano	Costa Centro	De 26 a 42	C	ICA	Ica	0	0	1,928532600000000	Centro
+2987052	Femenino	Rural	Sierra Sur	De 26 a 42	E	MACARI	Puno	0	0	2,078454000000000	Sur
+2987053	Femenino	Rural	Costa Norte	De 26 a 42	E	LAS LOMAS	Piura	0	0	1,565301300000000	Norte
+2987055	Masculino	Urbano	Lima	De 43 a más	C	EL AGUSTINO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987056	Masculino	Urbano	Sierra Norte	De 26 a 42	E	CAJAMARCA	Cajamarca	0	0	0,714354900000000	Norte
+2987058	Femenino	Urbano	Lima	De 18 a 25	E	PUENTE PIEDRA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,570573400000000	Lima
+2987061	Masculino	Urbano	Lima	De 43 a más	C	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987062	Masculino	Urbano	Sierra Sur	De 43 a más	E	SAN JERONIMO	Cusco	0	0	0,861575700000000	Sur
+2987063	Masculino	Urbano	Lima	De 26 a 42	C	COMAS	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2987064	Masculino	Urbano	Lima	De 43 a más	B	SAN MARTIN DE PORRES	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987065	Femenino	Urbano	Costa Norte	De 26 a 42	C	CHIMBOTE	Áncash	0	0	1,157352900000000	Norte
+2987067	Femenino	Urbano	Costa Norte	De 43 a más	C	CHIMBOTE	Áncash	0	0	1,157352900000000	Norte
+2987068	Femenino	Urbano	Costa Norte	De 43 a más	E	CHIMBOTE	Áncash	0	0	0,921439700000000	Norte
+2987069	Masculino	Urbano	Costa Norte	De 43 a más	D	CHIMBOTE	Áncash	0	0	1,593514800000000	Norte
+2987070	Femenino	Urbano	Costa Norte	De 26 a 42	E	CHIMBOTE	Áncash	0	0	0,921439700000000	Norte
+2987071	Femenino	Urbano	Costa Norte	De 43 a más	E	CHIMBOTE	Áncash	0	0	0,921439700000000	Norte
+2987072	Masculino	Urbano	Costa Norte	De 18 a 25	C	CHIMBOTE	Áncash	0	0	1,157352900000000	Norte
+2987073	Masculino	Urbano	Costa Norte	De 18 a 25	C	CHIMBOTE	Áncash	0	0	1,157352900000000	Norte
+2987074	Masculino	Urbano	Costa Norte	De 26 a 42	C	CHIMBOTE	Áncash	0	0	1,157352900000000	Norte
+2987075	Masculino	Urbano	Costa Norte	De 26 a 42	C	CHIMBOTE	Áncash	0	0	1,157352900000000	Norte
+2987076	Masculino	Urbano	Costa Norte	De 18 a 25	B	PARIÑAS	Piura	0	0	0,687797400000000	Norte
+2987077	Masculino	Urbano	Lima	De 43 a más	C	ATE	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987078	Femenino	Urbano	Costa Centro	De 18 a 25	C	ICA	Ica	0	0	1,928532600000000	Centro
+2987079	Femenino	Urbano	Oriente	De 43 a más	D	JAEN	Cajamarca	0	0	1,605392500000000	Oriente
+2987080	Femenino	Urbano	Lima	De 26 a 42	E	PUENTE PIEDRA	Lima y Callao	Lima	Blanco / Viciado	0,570573400000000	Lima
+2987081	Masculino	Rural	Sierra Sur	De 43 a más	E	MACARI	Puno	0	0	2,078454000000000	Sur
+2987082	Femenino	Urbano	Lima	De 26 a 42	A	LA MOLINA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2987083	Femenino	Urbano	Lima	De 43 a más	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2987084	Femenino	Urbano	Lima	De 18 a 25	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2987085	Femenino	Urbano	Costa Sur	De 26 a 42	D	CERRO COLORADO	Arequipa	0	0	1,281259500000000	Sur
+2987088	Masculino	Urbano	Lima	De 26 a 42	C	PUENTE PIEDRA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987089	Femenino	Urbano	Oriente	De 26 a 42	E	YARINACOCHA	Ucayali	0	0	0,876358600000000	Oriente
+2987091	Masculino	Urbano	Lima	De 18 a 25	C	BELLAVISTA	Lima y Callao	Callao	0	0,844042600000000	Lima
+2987092	Masculino	Rural	Sierra Sur	De 43 a más	C	HUAMANGUILLA	Ayacucho	0	0	0,169093700000000	Sur
+2987093	Masculino	Rural	Sierra Sur	De 26 a 42	D	HUAMANGUILLA	Ayacucho	0	0	0,371711000000000	Sur
+2987094	Masculino	Rural	Sierra Sur	De 26 a 42	E	HUAMANGUILLA	Ayacucho	0	0	2,078454000000000	Sur
+2987095	Femenino	Rural	Oriente	De 18 a 25	E	ALONSO DE ALVARADO	San Martin	0	0	1,918359300000000	Oriente
+2987096	Masculino	Rural	Oriente	De 43 a más	E	ALONSO DE ALVARADO	San Martin	0	0	1,918359300000000	Oriente
+2987097	Masculino	Rural	Oriente	De 43 a más	D	ALONSO DE ALVARADO	San Martin	0	0	0,964468300000000	Oriente
+2987098	Femenino	Rural	Sierra Sur	De 18 a 25	E	HUAMANGUILLA	Ayacucho	0	0	2,078454000000000	Sur
+2987099	Masculino	Rural	Sierra Sur	De 26 a 42	C	MARANGANI	Cusco	0	0	0,169093700000000	Sur
+2987100	Masculino	Urbano	Lima	De 43 a más	C	BARRANCO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987101	Femenino	Urbano	Costa Norte	De 18 a 25	C	PUCALÁ	Lambayeque	0	0	1,157352900000000	Norte
+2987102	Masculino	Urbano	Sierra Sur	De 43 a más	E	SAN JERONIMO	Cusco	0	0	0,861575700000000	Sur
+2987103	Masculino	Urbano	Lima	De 18 a 25	C	COMAS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987104	Femenino	Urbano	Lima	De 18 a 25	B	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2987105	Masculino	Urbano	Lima	De 26 a 42	D	COMAS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2987106	Masculino	Urbano	Lima	De 26 a 42	A	MIRAFLORES	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987107	Femenino	Urbano	Lima	De 18 a 25	C	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2987108	Masculino	Urbano	Costa Sur	De 43 a más	C	PAUCARPATA	Arequipa	0	0	1,898521500000000	Sur
+2987109	Femenino	Urbano	Sierra Norte	De 26 a 42	D	CAJAMARCA	Cajamarca	0	0	1,962472000000000	Norte
+2987110	Masculino	Urbano	Costa Sur	De 26 a 42	B	PAUCARPATA	Arequipa	0	0	0,397898100000000	Sur
+2987111	Masculino	Urbano	Costa Sur	De 18 a 25	C	PAUCARPATA	Arequipa	0	0	1,898521500000000	Sur
+2987112	Femenino	Urbano	Costa Sur	De 18 a 25	B	PAUCARPATA	Arequipa	0	0	0,397898100000000	Sur
+2987115	Femenino	Urbano	Lima	De 18 a 25	D	EL AGUSTINO	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2987117	Femenino	Urbano	Costa Centro	De 18 a 25	C	ICA	Ica	0	0	1,928532600000000	Centro
+2987118	Masculino	Urbano	Lima	De 43 a más	E	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Blanco / Viciado	0,570573400000000	Lima
+2987119	Femenino	Urbano	Lima	De 43 a más	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2987120	Masculino	Urbano	Lima	De 43 a más	B	SAN MIGUEL	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987122	Femenino	Urbano	Lima	De 26 a 42	B	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2987123	Masculino	Urbano	Lima	De 26 a 42	B	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2987124	Masculino	Urbano	Lima	De 43 a más	B	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2987125	Masculino	Urbano	Lima	De 43 a más	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987126	Masculino	Urbano	Lima	De 43 a más	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Elizabeth León por Frente de la Esperanza	0,844042600000000	Lima
+2987128	Femenino	Rural	Sierra Centro	De 43 a más	D	HUACHAC	Junin	0	0	0,931823500000000	Centro
+2987142	Femenino	Urbano	Costa Centro	De 26 a 42	E	BARRANCA	Lima Provincias	0	0	0,686267700000000	Centro
+2987143	Femenino	Urbano	Costa Centro	De 26 a 42	C	BARRANCA	Lima Provincias	0	0	1,928532600000000	Centro
+2987144	Masculino	Urbano	Costa Centro	De 18 a 25	D	BARRANCA	Lima Provincias	0	0	1,080154500000000	Centro
+2987145	Femenino	Urbano	Costa Centro	De 26 a 42	D	BARRANCA	Lima Provincias	0	0	1,080154500000000	Centro
+2987146	Femenino	Rural	Costa Norte	De 26 a 42	E	LAS LOMAS	Piura	0	0	1,565301300000000	Norte
+2987150	Masculino	Urbano	Lima	De 43 a más	B	LOS OLIVOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2987153	Masculino	Urbano	Oriente	De 18 a 25	C	JAEN	Cajamarca	0	0	1,185484800000000	Oriente
+2987154	Masculino	Urbano	Lima	De 43 a más	C	ATE	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987155	Femenino	Urbano	Lima	De 26 a 42	B	CHORRILLOS	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2987156	Femenino	Urbano	Lima	De 43 a más	B	CHORRILLOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2987157	Masculino	Urbano	Lima	De 26 a 42	B	CHORRILLOS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987158	Femenino	Urbano	Lima	De 43 a más	C	CHORRILLOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987159	Masculino	Urbano	Lima	De 43 a más	C	COMAS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987161	Masculino	Rural	Sierra Sur	De 43 a más	B	MARANGANI	Cusco	0	0	0,036163100000000	Sur
+2987162	Masculino	Urbano	Lima	De 43 a más	D	COMAS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,888577500000000	Lima
+2987163	Masculino	Urbano	Sierra Norte	De 43 a más	E	CAJAMARCA	Cajamarca	0	0	0,714354900000000	Norte
+2987172	Femenino	Urbano	Costa Norte	De 43 a más	D	PUCALÁ	Lambayeque	0	0	1,593514800000000	Norte
+2987173	Femenino	Urbano	Lima	De 26 a 42	C	EL AGUSTINO	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2987174	Femenino	Urbano	Lima	De 43 a más	C	SANTA ANITA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987175	Masculino	Urbano	Oriente	De 26 a 42	E	YARINACOCHA	Ucayali	0	0	0,876358600000000	Oriente
+2987176	Femenino	Urbano	Lima	De 43 a más	E	PUENTE PIEDRA	Lima y Callao	Lima	Yuri Castro por Perú Libre	0,570573400000000	Lima
+2987177	Femenino	Urbano	Lima	De 43 a más	C	PUENTE PIEDRA	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987228	Femenino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987229	Masculino	Urbano	Lima	De 43 a más	D	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2987231	Masculino	Urbano	Costa Norte	De 26 a 42	D	LAMBAYEQUE	Lambayeque	0	0	1,593514800000000	Norte
+2987232	Masculino	Urbano	Lima	De 18 a 25	A	LA MOLINA	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2987233	Femenino	Rural	Sierra Sur	De 43 a más	E	MACARI	Puno	0	0	2,078454000000000	Sur
+2987234	Femenino	Urbano	Lima	De 26 a 42	B	LOS OLIVOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2987235	Femenino	Rural	Costa Norte	De 18 a 25	C	LAS LOMAS	Piura	0	0	0,115971300000000	Norte
+2987237	Masculino	Urbano	Costa Norte	De 43 a más	E	TUMBES	Tumbes	0	0	0,921439700000000	Norte
+2987238	Masculino	Urbano	Costa Norte	De 26 a 42	C	TUMBES	Tumbes	0	0	1,157352900000000	Norte
+2987239	Femenino	Urbano	Costa Norte	De 26 a 42	D	TUMBES	Tumbes	0	0	1,593514800000000	Norte
+2987240	Femenino	Urbano	Costa Norte	De 26 a 42	D	TUMBES	Tumbes	0	0	1,593514800000000	Norte
+2987241	Femenino	Urbano	Costa Norte	De 43 a más	E	TUMBES	Tumbes	0	0	0,921439700000000	Norte
+2987242	Femenino	Urbano	Costa Norte	De 43 a más	D	TUMBES	Tumbes	0	0	1,593514800000000	Norte
+2987243	Masculino	Urbano	Costa Norte	De 26 a 42	E	TUMBES	Tumbes	0	0	0,921439700000000	Norte
+2987244	Masculino	Urbano	Costa Norte	De 43 a más	E	TUMBES	Tumbes	0	0	0,921439700000000	Norte
+2987245	Masculino	Urbano	Costa Norte	De 18 a 25	E	TUMBES	Tumbes	0	0	0,921439700000000	Norte
+2987248	Femenino	Urbano	Lima	De 26 a 42	D	COMAS	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2987249	Femenino	Urbano	Lima	De 26 a 42	B	SAN MARTIN DE PORRES	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987250	Femenino	Urbano	Costa Sur	De 43 a más	B	MOQUEGUA	Moquegua	0	0	0,397898100000000	Sur
+2987251	Masculino	Urbano	Costa Sur	De 43 a más	B	MOQUEGUA	Moquegua	0	0	0,397898100000000	Sur
+2987252	Femenino	Rural	Sierra Centro	De 43 a más	E	HUACHAC	Junin	0	0	1,939897400000000	Centro
+2987253	Femenino	Rural	Sierra Norte	De 26 a 42	E	QUILLO	Áncash	0	0	3,894759200000000	Norte
+2987254	Femenino	Rural	Sierra Norte	De 43 a más	D	QUILLO	Áncash	0	0	0,722015100000000	Norte
+2987255	Masculino	Rural	Sierra Norte	De 43 a más	E	QUILLO	Áncash	0	0	3,894759200000000	Norte
+2987256	Femenino	Urbano	Lima	De 43 a más	E	PUENTE PIEDRA	Lima y Callao	Lima	Blanco / Viciado	0,570573400000000	Lima
+2987257	Femenino	Rural	Sierra Norte	De 43 a más	E	QUILLO	Áncash	0	0	3,894759200000000	Norte
+2987258	Masculino	Rural	Sierra Norte	De 26 a 42	C	QUILLO	Áncash	0	0	0,029980000000000	Norte
+2987259	Femenino	Urbano	Sierra Norte	De 43 a más	E	CAJAMARCA	Cajamarca	0	0	0,714354900000000	Norte
+2987261	Masculino	Urbano	Lima	De 43 a más	C	COMAS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987262	Femenino	Urbano	Lima	De 18 a 25	C	CHORRILLOS	Lima y Callao	Lima	Elizabeth León por Frente de la Esperanza	0,844042600000000	Lima
+2987263	Masculino	Urbano	Lima	De 43 a más	B	CHORRILLOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2987264	Masculino	Urbano	Lima	De 26 a 42	B	CHORRILLOS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987265	Masculino	Urbano	Lima	De 43 a más	C	ATE	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987266	Masculino	Urbano	Lima	De 18 a 25	C	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987267	Femenino	Urbano	Sierra Sur	De 43 a más	B	SAN SEBASTIAN	Cusco	0	0	1,280949800000000	Sur
+2987269	Masculino	Urbano	Sierra Sur	De 18 a 25	B	PUNO	Puno	0	0	1,280949800000000	Sur
+2987270	Masculino	Urbano	Sierra Sur	De 26 a 42	B	PUNO	Puno	0	0	1,280949800000000	Sur
+2987272	Masculino	Urbano	Sierra Sur	De 43 a más	C	PUNO	Puno	0	0	1,432073600000000	Sur
+2987273	Femenino	Urbano	Sierra Sur	De 18 a 25	E	PUNO	Puno	0	0	0,861575700000000	Sur
+2987276	Femenino	Urbano	Sierra Sur	De 43 a más	C	PUNO	Puno	0	0	1,432073600000000	Sur
+2987277	Femenino	Urbano	Sierra Sur	De 26 a 42	E	PUNO	Puno	0	0	0,861575700000000	Sur
+2987278	Masculino	Rural	Sierra Sur	De 26 a 42	E	MACARI	Puno	0	0	2,078454000000000	Sur
+2987279	Masculino	Rural	Sierra Sur	De 43 a más	E	MARANGANI	Cusco	0	0	2,078454000000000	Sur
+2987281	Femenino	Urbano	Costa Centro	De 26 a 42	C	ICA	Ica	0	0	1,928532600000000	Centro
+2987282	Masculino	Urbano	Lima	De 18 a 25	C	VILLA MARIA DEL TRIUNFO	Lima y Callao	Lima	Omar Chehade por Alianza por el Progreso (APP)	0,844042600000000	Lima
+2987283	Masculino	Rural	Costa Norte	De 26 a 42	C	LAS LOMAS	Piura	0	0	0,115971300000000	Norte
+2987284	Masculino	Urbano	Lima	De 18 a 25	C	COMAS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987285	Femenino	Urbano	Lima	De 26 a 42	C	BARRANCO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987286	Masculino	Urbano	Lima	De 18 a 25	C	BARRANCO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987287	Femenino	Urbano	Lima	De 18 a 25	C	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2987289	Masculino	Urbano	Costa Sur	De 26 a 42	C	PAUCARPATA	Arequipa	0	0	1,898521500000000	Sur
+2987290	Femenino	Urbano	Lima	De 26 a 42	B	LOS OLIVOS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987291	Masculino	Urbano	Oriente	De 43 a más	D	JAEN	Cajamarca	0	0	1,605392500000000	Oriente
+2987296	Femenino	Urbano	Sierra Centro	De 26 a 42	E	CHAUPIMARCA	Pasco	0	0	1,168026700000000	Centro
+2987297	Masculino	Urbano	Oriente	De 43 a más	E	YARINACOCHA	Ucayali	0	0	0,876358600000000	Oriente
+2987300	Masculino	Urbano	Lima	De 43 a más	C	ATE	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987301	Masculino	Urbano	Costa Norte	De 43 a más	E	LAMBAYEQUE	Lambayeque	0	0	0,921439700000000	Norte
+2987302	Masculino	Urbano	Lima	De 43 a más	C	ATE	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987303	Masculino	Urbano	Lima	De 43 a más	C	ATE	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2987304	Masculino	Urbano	Lima	De 43 a más	E	ATE	Lima y Callao	Lima	Daniel Urresti por Podemos	0,570573400000000	Lima
+2987305	Masculino	Urbano	Lima	De 26 a 42	C	ATE	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987306	Femenino	Urbano	Lima	De 26 a 42	C	ATE	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2987307	Femenino	Urbano	Lima	De 18 a 25	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987308	Masculino	Urbano	Lima	De 43 a más	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2987309	Femenino	Urbano	Lima	De 18 a 25	D	ATE	Lima y Callao	Lima	George Forsyth por Somos Perú	0,888577500000000	Lima
+2987310	Femenino	Urbano	Lima	De 26 a 42	C	ATE	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987311	Femenino	Urbano	Lima	De 26 a 42	D	ATE	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2987312	Femenino	Urbano	Lima	De 18 a 25	D	ATE	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2987315	Masculino	Urbano	Lima	De 43 a más	A	SANTIAGO DE SURCO	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2987316	Masculino	Urbano	Sierra Norte	De 43 a más	E	CAJAMARCA	Cajamarca	0	0	0,714354900000000	Norte
+2987320	Masculino	Urbano	Lima	De 26 a 42	C	SAN MARTIN DE PORRES	Lima y Callao	Lima	Gonzalo Alegria por Juntos por el Perú	0,844042600000000	Lima
+2987325	Masculino	Urbano	Lima	De 43 a más	B	COMAS	Lima y Callao	Lima	Gonzalo Alegria por Juntos por el Perú	0,722194300000000	Lima
+2987332	Femenino	Urbano	Lima	De 26 a 42	A	MIRAFLORES	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2987334	Femenino	Urbano	Lima	De 43 a más	D	COMAS	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2987335	Masculino	Urbano	Sierra Centro	De 43 a más	E	CHAUPIMARCA	Pasco	0	0	1,168026700000000	Centro
+2987338	Femenino	Urbano	Sierra Sur	De 26 a 42	E	JULIACA	Puno	0	0	0,861575700000000	Sur
+2987339	Femenino	Urbano	Sierra Sur	De 43 a más	E	JULIACA	Puno	0	0	0,861575700000000	Sur
+2987340	Femenino	Urbano	Sierra Sur	De 26 a 42	E	JULIACA	Puno	0	0	0,861575700000000	Sur
+2987341	Femenino	Urbano	Sierra Sur	De 18 a 25	E	JULIACA	Puno	0	0	0,861575700000000	Sur
+2987342	Masculino	Urbano	Sierra Sur	De 26 a 42	D	JULIACA	Puno	0	0	1,128476000000000	Sur
+2987343	Masculino	Urbano	Sierra Sur	De 43 a más	E	JULIACA	Puno	0	0	0,861575700000000	Sur
+2987345	Masculino	Urbano	Sierra Sur	De 43 a más	C	JULIACA	Puno	0	0	1,432073600000000	Sur
+2987346	Femenino	Urbano	Sierra Sur	De 43 a más	D	JULIACA	Puno	0	0	1,128476000000000	Sur
+2987347	Masculino	Urbano	Sierra Sur	De 26 a 42	D	JULIACA	Puno	0	0	1,128476000000000	Sur
+2987349	Masculino	Urbano	Sierra Sur	De 18 a 25	D	JULIACA	Puno	0	0	1,128476000000000	Sur
+2987351	Femenino	Urbano	Costa Centro	De 26 a 42	C	ICA	Ica	0	0	1,928532600000000	Centro
+2987366	Masculino	Urbano	Lima	De 43 a más	C	PUENTE PIEDRA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987373	Femenino	Urbano	Lima	De 43 a más	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2987374	Masculino	Urbano	Lima	De 43 a más	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,888577500000000	Lima
+2987375	Masculino	Urbano	Lima	De 26 a 42	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2987376	Masculino	Urbano	Lima	De 43 a más	E	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Yuri Castro por Perú Libre	0,570573400000000	Lima
+2987378	Femenino	Urbano	Lima	De 26 a 42	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2987379	Femenino	Urbano	Lima	De 26 a 42	E	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,570573400000000	Lima
+2987381	Masculino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987382	Masculino	Urbano	Lima	De 43 a más	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987383	Femenino	Urbano	Lima	De 18 a 25	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2987385	Femenino	Urbano	Lima	De 18 a 25	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987387	Masculino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987388	Femenino	Urbano	Lima	De 18 a 25	D	PUENTE PIEDRA	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2987390	Masculino	Urbano	Lima	De 43 a más	C	ATE	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987391	Femenino	Rural	Sierra Sur	De 26 a 42	D	MACARI	Puno	0	0	0,371711000000000	Sur
+2987392	Masculino	Rural	Costa Norte	De 43 a más	E	LAS LOMAS	Piura	0	0	1,565301300000000	Norte
+2987393	Femenino	Rural	Sierra Norte	De 26 a 42	C	CHOTA	Cajamarca	0	0	0,029980000000000	Norte
+2987394	Masculino	Rural	Sierra Norte	De 18 a 25	C	CHOTA	Cajamarca	0	0	0,029980000000000	Norte
+2987395	Masculino	Rural	Sierra Norte	De 26 a 42	B	CHOTA	Cajamarca	0	0	0,003948800000000	Norte
+2987396	Femenino	Urbano	Lima	De 18 a 25	D	VENTANILLA	Lima y Callao	Callao	0	0,888577500000000	Lima
+2987397	Masculino	Urbano	Sierra Norte	De 43 a más	C	CAJAMARCA	Cajamarca	0	0	0,668269300000000	Norte
+2987398	Femenino	Urbano	Sierra Centro	De 26 a 42	D	CHAUPIMARCA	Pasco	0	0	2,083386900000000	Centro
+2987399	Masculino	Urbano	Costa Sur	De 26 a 42	E	MOQUEGUA	Moquegua	0	0	1,536620300000000	Sur
+2987400	Femenino	Urbano	Costa Sur	De 18 a 25	D	MOQUEGUA	Moquegua	0	0	1,281259500000000	Sur
+2987401	Femenino	Urbano	Lima	De 43 a más	C	COMAS	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2987402	Masculino	Urbano	Lima	De 43 a más	A	SANTIAGO DE SURCO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2987404	Masculino	Rural	Sierra Sur	De 26 a 42	E	MACARI	Puno	0	0	2,078454000000000	Sur
+2987405	Femenino	Urbano	Oriente	De 18 a 25	D	JAEN	Cajamarca	0	0	1,605392500000000	Oriente
+2987406	Masculino	Urbano	Lima	De 26 a 42	B	SAN JUAN DE MIRAFLORES	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2987408	Femenino	Urbano	Sierra Norte	De 18 a 25	C	CAJAMARCA	Cajamarca	0	0	0,668269300000000	Norte
+2987410	Masculino	Urbano	Lima	De 18 a 25	D	SAN MIGUEL	Lima y Callao	Lima	George Forsyth por Somos Perú	0,888577500000000	Lima
+2987411	Femenino	Urbano	Lima	De 43 a más	B	SAN MIGUEL	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2987412	Masculino	Urbano	Lima	De 26 a 42	C	COMAS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987413	Masculino	Rural	Sierra Centro	De 18 a 25	E	HUACHAC	Junin	0	0	1,939897400000000	Centro
+2987414	Femenino	Urbano	Sierra Sur	De 18 a 25	E	SAN SEBASTIAN	Cusco	0	0	0,861575700000000	Sur
+2987415	Masculino	Urbano	Sierra Sur	De 43 a más	D	SAN SEBASTIAN	Cusco	0	0	1,128476000000000	Sur
+2987416	Femenino	Urbano	Costa Centro	De 18 a 25	D	PUEBLO NUEVO	Ica	0	0	1,080154500000000	Centro
+2987417	Femenino	Urbano	Costa Centro	De 26 a 42	D	PUEBLO NUEVO	Ica	0	0	1,080154500000000	Centro
+2987418	Femenino	Urbano	Costa Centro	De 43 a más	D	PUEBLO NUEVO	Ica	0	0	1,080154500000000	Centro
+2987419	Masculino	Urbano	Costa Centro	De 26 a 42	D	PUEBLO NUEVO	Ica	0	0	1,080154500000000	Centro
+2987420	Femenino	Urbano	Costa Centro	De 26 a 42	D	PUEBLO NUEVO	Ica	0	0	1,080154500000000	Centro
+2987421	Masculino	Urbano	Lima	De 26 a 42	D	LOS OLIVOS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2987422	Masculino	Urbano	Lima	De 43 a más	C	LOS OLIVOS	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987423	Femenino	Urbano	Lima	De 43 a más	C	LOS OLIVOS	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987424	Masculino	Urbano	Lima	De 26 a 42	B	LOS OLIVOS	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2987425	Femenino	Urbano	Lima	De 26 a 42	B	LOS OLIVOS	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2987426	Femenino	Urbano	Lima	De 43 a más	C	LOS OLIVOS	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2987427	Masculino	Urbano	Lima	De 43 a más	C	LOS OLIVOS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987428	Femenino	Urbano	Sierra Centro	De 18 a 25	B	CHAUPIMARCA	Pasco	0	0	0,381243000000000	Centro
+2987430	Femenino	Urbano	Lima	De 18 a 25	C	SAN MARTIN DE PORRES	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987431	Masculino	Urbano	Lima	De 43 a más	C	SAN MARTIN DE PORRES	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987432	Masculino	Urbano	Lima	De 26 a 42	C	SAN MARTIN DE PORRES	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987433	Masculino	Urbano	Lima	De 43 a más	C	SAN MARTIN DE PORRES	Lima y Callao	Lima	Yuri Castro por Perú Libre	0,844042600000000	Lima
+2987434	Masculino	Urbano	Lima	De 43 a más	D	PUENTE PIEDRA	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2987436	Masculino	Urbano	Lima	De 26 a 42	B	BREÑA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2987437	Femenino	Urbano	Lima	De 43 a más	B	LINCE	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2987438	Masculino	Urbano	Lima	De 26 a 42	B	LINCE	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987439	Femenino	Urbano	Lima	De 26 a 42	B	LINCE	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2987440	Femenino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987441	Femenino	Urbano	Lima	De 43 a más	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2987442	Femenino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987443	Masculino	Rural	Sierra Norte	De 18 a 25	C	BAMBAMARCA	Cajamarca	0	0	0,029980000000000	Norte
+2987444	Masculino	Rural	Sierra Norte	De 26 a 42	C	BAMBAMARCA	Cajamarca	0	0	0,029980000000000	Norte
+2987445	Masculino	Rural	Sierra Norte	De 26 a 42	C	BAMBAMARCA	Cajamarca	0	0	0,029980000000000	Norte
+2987446	Femenino	Rural	Sierra Sur	De 18 a 25	E	MACARI	Puno	0	0	2,078454000000000	Sur
+2987447	Masculino	Urbano	Oriente	De 43 a más	C	JAEN	Cajamarca	0	0	1,185484800000000	Oriente
+2987451	Femenino	Urbano	Costa Sur	De 26 a 42	C	PAUCARPATA	Arequipa	0	0	1,898521500000000	Sur
+2987465	Femenino	Urbano	Lima	De 26 a 42	A	SANTIAGO DE SURCO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987467	Femenino	Urbano	Lima	De 26 a 42	C	SAN MARTIN DE PORRES	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2987468	Femenino	Rural	Oriente	De 26 a 42	E	ALONSO DE ALVARADO	San Martin	0	0	1,918359300000000	Oriente
+2987469	Masculino	Rural	Oriente	De 43 a más	D	ALONSO DE ALVARADO	San Martin	0	0	0,964468300000000	Oriente
+2987470	Masculino	Rural	Oriente	De 18 a 25	D	ALONSO DE ALVARADO	San Martin	0	0	0,964468300000000	Oriente
+2987471	Femenino	Urbano	Oriente	De 43 a más	E	YARINACOCHA	Ucayali	0	0	0,876358600000000	Oriente
+2987472	Femenino	Urbano	Lima	De 43 a más	C	LOS OLIVOS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987474	Femenino	Urbano	Lima	De 26 a 42	B	JESUS MARIA	Lima y Callao	Lima	No precisa	0,722194300000000	Lima
+2987475	Femenino	Urbano	Lima	De 18 a 25	B	JESUS MARIA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987476	Femenino	Urbano	Lima	De 26 a 42	C	JESUS MARIA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987478	Masculino	Urbano	Lima	De 26 a 42	E	PUENTE PIEDRA	Lima y Callao	Lima	Blanco / Viciado	0,570573400000000	Lima
+2987480	Masculino	Urbano	Lima	De 18 a 25	B	CALLAO	Lima y Callao	Callao	0	0,722194300000000	Lima
+2987488	Masculino	Urbano	Lima	De 26 a 42	D	RIMAC	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2987489	Masculino	Urbano	Lima	De 43 a más	D	RIMAC	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2987490	Masculino	Urbano	Lima	De 43 a más	D	RIMAC	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2987491	Femenino	Rural	Sierra Norte	De 18 a 25	B	CHOTA	Cajamarca	0	0	0,003948800000000	Norte
+2987492	Femenino	Urbano	Lima	De 43 a más	D	RIMAC	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2987493	Masculino	Urbano	Lima	De 43 a más	D	RIMAC	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2987494	Femenino	Rural	Sierra Norte	De 43 a más	C	CHOTA	Cajamarca	0	0	0,029980000000000	Norte
+2987495	Femenino	Urbano	Lima	De 26 a 42	D	RIMAC	Lima y Callao	Lima	Elizabeth León por Frente de la Esperanza	0,888577500000000	Lima
+2987496	Femenino	Urbano	Lima	De 26 a 42	D	RIMAC	Lima y Callao	Lima	Elizabeth León por Frente de la Esperanza	0,888577500000000	Lima
+2987497	Femenino	Urbano	Lima	De 18 a 25	D	RIMAC	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,888577500000000	Lima
+2987498	Femenino	Urbano	Lima	De 26 a 42	D	RIMAC	Lima y Callao	Lima	Elizabeth León por Frente de la Esperanza	0,888577500000000	Lima
+2987499	Masculino	Urbano	Lima	De 18 a 25	D	RIMAC	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2987504	Masculino	Rural	Sierra Norte	De 43 a más	C	BAMBAMARCA	Cajamarca	0	0	0,029980000000000	Norte
+2987505	Masculino	Rural	Sierra Centro	De 26 a 42	E	ACORIA	Huancavelica	0	0	1,939897400000000	Centro
+2987506	Femenino	Urbano	Costa Centro	De 43 a más	D	PUEBLO NUEVO	Ica	0	0	1,080154500000000	Centro
+2987507	Masculino	Rural	Sierra Sur	De 18 a 25	E	MACARI	Puno	0	0	2,078454000000000	Sur
+2987513	Femenino	Urbano	Lima	De 43 a más	D	COMAS	Lima y Callao	Lima	Gonzalo Alegria por Juntos por el Perú	0,888577500000000	Lima
+2987514	Femenino	Urbano	Lima	De 26 a 42	C	LOS OLIVOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987515	Masculino	Urbano	Lima	De 26 a 42	B	LOS OLIVOS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987516	Femenino	Urbano	Sierra Sur	De 18 a 25	E	ANDAHUAYLAS	Apurímac	0	0	0,861575700000000	Sur
+2987517	Masculino	Rural	Sierra Sur	De 43 a más	D	HUAMANGUILLA	Ayacucho	0	0	0,371711000000000	Sur
+2987518	Femenino	Rural	Sierra Sur	De 43 a más	E	HUAMANGUILLA	Ayacucho	0	0	2,078454000000000	Sur
+2987519	Masculino	Rural	Sierra Sur	De 43 a más	E	HUAMANGUILLA	Ayacucho	0	0	2,078454000000000	Sur
+2987520	Masculino	Rural	Sierra Sur	De 43 a más	D	HUAMANGUILLA	Ayacucho	0	0	0,371711000000000	Sur
+2987521	Femenino	Rural	Sierra Sur	De 26 a 42	E	HUAMANGUILLA	Ayacucho	0	0	2,078454000000000	Sur
+2987522	Femenino	Rural	Sierra Sur	De 18 a 25	E	HUAMANGUILLA	Ayacucho	0	0	2,078454000000000	Sur
+2987526	Femenino	Urbano	Costa Norte	De 18 a 25	B	NUEVO CHIMBOTE	Áncash	0	0	0,687797400000000	Norte
+2987527	Femenino	Urbano	Costa Norte	De 43 a más	B	NUEVO CHIMBOTE	Áncash	0	0	0,687797400000000	Norte
+2987528	Femenino	Urbano	Costa Norte	De 43 a más	B	NUEVO CHIMBOTE	Áncash	0	0	0,687797400000000	Norte
+2987529	Masculino	Urbano	Costa Norte	De 43 a más	C	NUEVO CHIMBOTE	Áncash	0	0	1,157352900000000	Norte
+2987530	Masculino	Urbano	Lima	De 18 a 25	A	LA MOLINA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987531	Masculino	Urbano	Sierra Sur	De 43 a más	B	SAN SEBASTIAN	Cusco	0	0	1,280949800000000	Sur
+2987532	Femenino	Urbano	Lima	De 43 a más	C	BREÑA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987533	Masculino	Urbano	Costa Sur	De 43 a más	C	MOQUEGUA	Moquegua	0	0	1,898521500000000	Sur
+2987534	Femenino	Urbano	Costa Sur	De 26 a 42	D	MOQUEGUA	Moquegua	0	0	1,281259500000000	Sur
+2987535	Femenino	Urbano	Costa Sur	De 26 a 42	B	MOQUEGUA	Moquegua	0	0	0,397898100000000	Sur
+2987538	Masculino	Urbano	Lima	De 18 a 25	D	PUENTE PIEDRA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2987540	Femenino	Urbano	Lima	De 18 a 25	C	COMAS	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2987541	Femenino	Urbano	Lima	De 18 a 25	B	LINCE	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987542	Femenino	Urbano	Oriente	De 43 a más	E	YARINACOCHA	Ucayali	0	0	0,876358600000000	Oriente
+2987543	Masculino	Urbano	Lima	De 26 a 42	A	MIRAFLORES	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2987548	Femenino	Urbano	Lima	De 18 a 25	A	MIRAFLORES	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2987552	Femenino	Urbano	Lima	De 18 a 25	C	CHORRILLOS	Lima y Callao	Lima	Elizabeth León por Frente de la Esperanza	0,844042600000000	Lima
+2987553	Femenino	Urbano	Lima	De 43 a más	C	CHORRILLOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987554	Femenino	Urbano	Lima	De 26 a 42	D	CHORRILLOS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2987555	Masculino	Urbano	Lima	De 18 a 25	D	CHORRILLOS	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2987556	Masculino	Urbano	Lima	De 43 a más	C	CHORRILLOS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987557	Femenino	Urbano	Lima	De 26 a 42	C	CHORRILLOS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987558	Femenino	Urbano	Lima	De 26 a 42	C	CHORRILLOS	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987559	Masculino	Urbano	Lima	De 43 a más	C	CHORRILLOS	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987560	Masculino	Urbano	Lima	De 43 a más	C	CHORRILLOS	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987561	Masculino	Urbano	Lima	De 26 a 42	D	CHORRILLOS	Lima y Callao	Lima	Yuri Castro por Perú Libre	0,888577500000000	Lima
+2987565	Masculino	Urbano	Oriente	De 18 a 25	B	TARAPOTO	San Martin	0	0	1,097862000000000	Oriente
+2987574	Masculino	Urbano	Sierra Centro	De 26 a 42	E	CHAUPIMARCA	Pasco	0	0	1,168026700000000	Centro
+2987579	Masculino	Rural	Sierra Sur	De 26 a 42	D	MACARI	Puno	0	0	0,371711000000000	Sur
+2987580	Masculino	Urbano	Sierra Sur	De 26 a 42	B	ANDAHUAYLAS	Apurímac	0	0	1,280949800000000	Sur
+2987582	Femenino	Urbano	Lima	De 26 a 42	C	SAN MIGUEL	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987585	Masculino	Urbano	Lima	De 18 a 25	A	SANTIAGO DE SURCO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2987587	Femenino	Urbano	Lima	De 43 a más	C	CALLAO	Lima y Callao	Callao	0	0,844042600000000	Lima
+2987588	Masculino	Urbano	Lima	De 43 a más	C	CALLAO	Lima y Callao	Callao	0	0,844042600000000	Lima
+2987590	Femenino	Urbano	Lima	De 26 a 42	C	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2987592	Masculino	Urbano	Lima	De 43 a más	E	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Blanco / Viciado	0,570573400000000	Lima
+2987595	Femenino	Urbano	Lima	De 26 a 42	B	LINCE	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2987596	Femenino	Urbano	Lima	De 18 a 25	C	LOS OLIVOS	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2987597	Femenino	Urbano	Lima	De 18 a 25	C	CHORRILLOS	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987598	Masculino	Urbano	Sierra Centro	De 43 a más	E	CHAUPIMARCA	Pasco	0	0	1,168026700000000	Centro
+2987607	Femenino	Urbano	Sierra Centro	De 26 a 42	C	HUÁNUCO	Huánuco	0	0	0,828176700000000	Centro
+2987608	Femenino	Urbano	Sierra Centro	De 43 a más	C	HUÁNUCO	Huánuco	0	0	0,828176700000000	Centro
+2987609	Femenino	Urbano	Sierra Centro	De 18 a 25	E	HUÁNUCO	Huánuco	0	0	1,168026700000000	Centro
+2987610	Femenino	Urbano	Sierra Centro	De 26 a 42	D	HUÁNUCO	Huánuco	0	0	2,083386900000000	Centro
+2987611	Masculino	Urbano	Sierra Centro	De 26 a 42	D	HUÁNUCO	Huánuco	0	0	2,083386900000000	Centro
+2987614	Femenino	Urbano	Lima	De 18 a 25	D	VENTANILLA	Lima y Callao	Callao	0	0,888577500000000	Lima
+2987616	Femenino	Urbano	Lima	De 26 a 42	D	COMAS	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,888577500000000	Lima
+2987617	Masculino	Urbano	Costa Sur	De 18 a 25	B	MOQUEGUA	Moquegua	0	0	0,397898100000000	Sur
+2987618	Femenino	Urbano	Lima	De 26 a 42	D	PUENTE PIEDRA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,888577500000000	Lima
+2987621	Femenino	Urbano	Lima	De 43 a más	C	INDEPENDENCIA	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2987622	Masculino	Urbano	Lima	De 43 a más	B	INDEPENDENCIA	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987623	Masculino	Urbano	Lima	De 43 a más	E	INDEPENDENCIA	Lima y Callao	Lima	Blanco / Viciado	0,570573400000000	Lima
+2987624	Femenino	Urbano	Lima	De 26 a 42	C	BREÑA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987625	Masculino	Urbano	Lima	De 26 a 42	C	INDEPENDENCIA	Lima y Callao	Lima	Blanco / Viciado	0,844042600000000	Lima
+2987626	Masculino	Urbano	Lima	De 18 a 25	B	INDEPENDENCIA	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2987627	Masculino	Urbano	Oriente	De 43 a más	D	TARAPOTO	San Martin	0	0	1,605392500000000	Oriente
+2987629	Femenino	Urbano	Lima	De 18 a 25	B	LOS OLIVOS	Lima y Callao	Lima	Blanco / Viciado	0,722194300000000	Lima
+2987632	Masculino	Rural	Oriente	De 26 a 42	E	ALONSO DE ALVARADO	San Martin	0	0	1,918359300000000	Oriente
+2987633	Masculino	Urbano	Sierra Centro	De 43 a más	E	CHAUPIMARCA	Pasco	0	0	1,168026700000000	Centro
+2987637	Femenino	Urbano	Sierra Sur	De 18 a 25	D	ANDAHUAYLAS	Apurímac	0	0	1,128476000000000	Sur
+2987638	Femenino	Urbano	Lima	De 43 a más	B	CALLAO	Lima y Callao	Callao	0	0,722194300000000	Lima
+2987699	Masculino	Urbano	Lima	De 43 a más	A	MIRAFLORES	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2987700	Femenino	Urbano	Costa Sur	De 43 a más	C	MOQUEGUA	Moquegua	0	0	1,898521500000000	Sur
+2987703	Masculino	Urbano	Lima	De 43 a más	C	VILLA EL SALVADOR	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2987704	Masculino	Urbano	Lima	De 43 a más	C	VILLA EL SALVADOR	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2987705	Masculino	Urbano	Lima	De 26 a 42	C	VILLA EL SALVADOR	Lima y Callao	Lima	Daniel Urresti por Podemos	0,844042600000000	Lima
+2987706	Femenino	Urbano	Lima	De 18 a 25	B	VILLA EL SALVADOR	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2987707	Femenino	Urbano	Lima	De 26 a 42	B	VILLA EL SALVADOR	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987708	Femenino	Urbano	Lima	De 43 a más	B	VILLA EL SALVADOR	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987709	Masculino	Urbano	Lima	De 43 a más	D	VILLA EL SALVADOR	Lima y Callao	Lima	Blanco / Viciado	0,888577500000000	Lima
+2987710	Femenino	Urbano	Lima	De 43 a más	B	LINCE	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987715	Femenino	Urbano	Oriente	De 18 a 25	D	JAEN	Cajamarca	0	0	1,605392500000000	Oriente
+2987716	Femenino	Urbano	Oriente	De 43 a más	E	JAEN	Cajamarca	0	0	0,876358600000000	Oriente
+2987717	Masculino	Urbano	Lima	De 26 a 42	B	VILLA EL SALVADOR	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987718	Femenino	Urbano	Lima	De 26 a 42	C	VILLA EL SALVADOR	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987720	Masculino	Urbano	Lima	De 18 a 25	C	SAN MARTIN DE PORRES	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2987753	Masculino	Rural	Sierra Sur	De 43 a más	E	YUNGUYO	Puno	0	0	2,078454000000000	Sur
+2987754	Femenino	Rural	Sierra Sur	De 26 a 42	B	YUNGUYO	Puno	0	0	0,036163100000000	Sur
+2987755	Femenino	Rural	Sierra Sur	De 26 a 42	C	YUNGUYO	Puno	0	0	0,169093700000000	Sur
+2987756	Masculino	Rural	Sierra Sur	De 26 a 42	D	YUNGUYO	Puno	0	0	0,371711000000000	Sur
+2987757	Masculino	Rural	Sierra Sur	De 43 a más	D	YUNGUYO	Puno	0	0	0,371711000000000	Sur
+2987758	Femenino	Rural	Sierra Sur	De 43 a más	D	YUNGUYO	Puno	0	0	0,371711000000000	Sur
+2987760	Femenino	Rural	Sierra Sur	De 18 a 25	E	YUNGUYO	Puno	0	0	2,078454000000000	Sur
+2987762	Masculino	Urbano	Lima	De 18 a 25	B	SAN MIGUEL	Lima y Callao	Lima	Gonzalo Alegria por Juntos por el Perú	0,722194300000000	Lima
+2987764	Femenino	Urbano	Oriente	De 26 a 42	D	CHANCHAMAYO	Junin	0	0	1,605392500000000	Oriente
+2987765	Femenino	Urbano	Lima	De 26 a 42	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	No precisa	0,888577500000000	Lima
+2987768	Masculino	Urbano	Costa Centro	De 43 a más	D	PUEBLO NUEVO	Ica	0	0	1,080154500000000	Centro
+2987771	Femenino	Urbano	Lima	De 26 a 42	B	COMAS	Lima y Callao	Lima	George Forsyth por Somos Perú	0,722194300000000	Lima
+2987817	Masculino	Urbano	Oriente	De 18 a 25	E	JAEN	Cajamarca	0	0	0,876358600000000	Oriente
+2987829	Masculino	Urbano	Sierra Sur	De 43 a más	E	ANDAHUAYLAS	Apurímac	0	0	0,861575700000000	Sur
+2987830	Femenino	Urbano	Costa Sur	De 26 a 42	E	TACNA	Tacna	0	0	1,536620300000000	Sur
+2987835	Femenino	Urbano	Lima	De 26 a 42	A	SANTIAGO DE SURCO	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987841	Masculino	Urbano	Sierra Sur	De 18 a 25	E	SAN JERONIMO	Apurímac	0	0	0,861575700000000	Sur
+2987842	Femenino	Urbano	Sierra Sur	De 26 a 42	D	SAN JERONIMO	Apurímac	0	0	1,128476000000000	Sur
+2987843	Femenino	Urbano	Sierra Sur	De 26 a 42	D	SAN JERONIMO	Apurímac	0	0	1,128476000000000	Sur
+2987844	Masculino	Urbano	Sierra Sur	De 43 a más	E	SAN JERONIMO	Apurímac	0	0	0,861575700000000	Sur
+2987845	Masculino	Urbano	Sierra Sur	De 18 a 25	C	SAN JERONIMO	Apurímac	0	0	1,432073600000000	Sur
+2987846	Masculino	Urbano	Sierra Sur	De 43 a más	E	SAN JERONIMO	Apurímac	0	0	0,861575700000000	Sur
+2987848	Masculino	Urbano	Costa Norte	De 43 a más	E	NUEVO CHIMBOTE	Áncash	0	0	0,921439700000000	Norte
+2987849	Masculino	Urbano	Costa Norte	De 26 a 42	B	NUEVO CHIMBOTE	Áncash	0	0	0,687797400000000	Norte
+2987850	Masculino	Urbano	Costa Norte	De 26 a 42	B	NUEVO CHIMBOTE	Áncash	0	0	0,687797400000000	Norte
+2987851	Masculino	Urbano	Costa Centro	De 26 a 42	B	ICA	Ica	0	0	1,133942000000000	Centro
+2987852	Masculino	Urbano	Lima	De 26 a 42	C	SAN MIGUEL	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2987854	Femenino	Urbano	Lima	De 26 a 42	D	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	George Forsyth por Somos Perú	0,888577500000000	Lima
+2987855	Femenino	Urbano	Lima	De 18 a 25	B	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2987856	Femenino	Urbano	Oriente	De 43 a más	C	TARAPOTO	San Martin	0	0	1,185484800000000	Oriente
+2987857	Femenino	Urbano	Oriente	De 43 a más	C	TARAPOTO	San Martin	0	0	1,185484800000000	Oriente
+2987863	Masculino	Urbano	Costa Sur	De 26 a 42	B	TACNA	Tacna	0	0	0,397898100000000	Sur
+2987865	Femenino	Urbano	Costa Norte	De 43 a más	D	PIURA	Piura	0	0	1,593514800000000	Norte
+2987875	Femenino	Urbano	Lima	De 26 a 42	C	COMAS	Lima y Callao	Lima	George Forsyth por Somos Perú	0,844042600000000	Lima
+2987890	Femenino	Urbano	Sierra Sur	De 26 a 42	E	AYACUCHO	Ayacucho	0	0	0,861575700000000	Sur
+2987891	Masculino	Urbano	Sierra Sur	De 26 a 42	C	AYACUCHO	Ayacucho	0	0	1,432073600000000	Sur
+2987892	Femenino	Urbano	Sierra Sur	De 18 a 25	C	AYACUCHO	Ayacucho	0	0	1,432073600000000	Sur
+2987893	Masculino	Urbano	Sierra Sur	De 26 a 42	E	AYACUCHO	Ayacucho	0	0	0,861575700000000	Sur
+2987894	Femenino	Urbano	Sierra Sur	De 43 a más	E	AYACUCHO	Ayacucho	0	0	0,861575700000000	Sur
+2987899	Masculino	Urbano	Sierra Sur	De 26 a 42	C	ANDAHUAYLAS	Apurímac	0	0	1,432073600000000	Sur
+2987900	Masculino	Urbano	Lima	De 26 a 42	D	CALLAO	Lima y Callao	Callao	0	0,888577500000000	Lima
+2987913	Masculino	Rural	Sierra Sur	De 26 a 42	D	YUNGUYO	Puno	0	0	0,371711000000000	Sur
+2987919	Masculino	Urbano	Costa Sur	De 26 a 42	B	TACNA	Tacna	0	0	0,397898100000000	Sur
+2987924	Masculino	Urbano	Lima	De 43 a más	C	CALLAO	Lima y Callao	Callao	0	0,844042600000000	Lima
+2987931	Masculino	Urbano	Costa Norte	De 43 a más	E	PIURA	Piura	0	0	0,921439700000000	Norte
+2987939	Masculino	Urbano	Sierra Sur	De 26 a 42	B	ANDAHUAYLAS	Apurímac	0	0	1,280949800000000	Sur
+2987940	Femenino	Urbano	Lima	De 26 a 42	B	SAN MIGUEL	Lima y Callao	Lima	Daniel Urresti por Podemos	0,722194300000000	Lima
+2987949	Femenino	Urbano	Costa Norte	De 18 a 25	D	PIURA	Piura	0	0	1,593514800000000	Norte
+2987953	Femenino	Urbano	Sierra Sur	De 26 a 42	D	SAN JERONIMO	Apurímac	0	0	1,128476000000000	Sur
+2987955	Femenino	Urbano	Sierra Sur	De 43 a más	D	SAN JERONIMO	Apurímac	0	0	1,128476000000000	Sur
+2987956	Femenino	Urbano	Sierra Sur	De 43 a más	E	SAN JERONIMO	Apurímac	0	0	0,861575700000000	Sur
+2987962	Femenino	Urbano	Oriente	De 26 a 42	C	CHANCHAMAYO	Junin	0	0	1,185484800000000	Oriente
+2987963	Femenino	Urbano	Oriente	De 26 a 42	D	CHANCHAMAYO	Junin	0	0	1,605392500000000	Oriente
+2987964	Femenino	Urbano	Lima	De 26 a 42	C	CALLAO	Lima y Callao	Callao	0	0,844042600000000	Lima
+2987971	Femenino	Urbano	Costa Norte	De 43 a más	D	PIURA	Piura	0	0	1,593514800000000	Norte
+2987974	Femenino	Urbano	Costa Sur	De 43 a más	D	TACNA	Tacna	0	0	1,281259500000000	Sur
+2987982	Masculino	Urbano	Lima	De 18 a 25	B	SAN JUAN DE LURIGANCHO	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,722194300000000	Lima
+2987983	Femenino	Urbano	Lima	De 18 a 25	D	BREÑA	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,888577500000000	Lima
+2987986	Femenino	Urbano	Costa Sur	De 43 a más	D	TACNA	Tacna	0	0	1,281259500000000	Sur
+2988001	Masculino	Urbano	Oriente	De 43 a más	D	TAMBOPATA	Madre de Dios	0	0	1,605392500000000	Oriente
+2988002	Femenino	Urbano	Oriente	De 43 a más	C	TAMBOPATA	Madre de Dios	0	0	1,185484800000000	Oriente
+2988003	Masculino	Urbano	Oriente	De 18 a 25	B	TAMBOPATA	Madre de Dios	0	0	1,097862000000000	Oriente
+2988004	Femenino	Urbano	Oriente	De 43 a más	E	TAMBOPATA	Madre de Dios	0	0	0,876358600000000	Oriente
+2988005	Masculino	Urbano	Oriente	De 26 a 42	E	TAMBOPATA	Madre de Dios	0	0	0,876358600000000	Oriente
+2988006	Femenino	Urbano	Oriente	De 43 a más	C	TAMBOPATA	Madre de Dios	0	0	1,185484800000000	Oriente
+2988007	Femenino	Urbano	Oriente	De 18 a 25	C	TAMBOPATA	Madre de Dios	0	0	1,185484800000000	Oriente
+2988008	Femenino	Urbano	Oriente	De 43 a más	E	TAMBOPATA	Madre de Dios	0	0	0,876358600000000	Oriente
+2988009	Masculino	Urbano	Oriente	De 26 a 42	D	TAMBOPATA	Madre de Dios	0	0	1,605392500000000	Oriente
+2988010	Masculino	Urbano	Oriente	De 26 a 42	E	TAMBOPATA	Madre de Dios	0	0	0,876358600000000	Oriente
+2988011	Femenino	Urbano	Lima	De 26 a 42	C	CALLAO	Lima y Callao	Callao	0	0,844042600000000	Lima
+2988016	Masculino	Urbano	Costa Norte	De 43 a más	C	PIURA	Piura	0	0	1,157352900000000	Norte
+2988018	Masculino	Urbano	Costa Norte	De 18 a 25	C	NUEVO CHIMBOTE	Áncash	0	0	1,157352900000000	Norte
+2988019	Femenino	Urbano	Costa Norte	De 26 a 42	C	NUEVO CHIMBOTE	Áncash	0	0	1,157352900000000	Norte
+2988021	Masculino	Urbano	Costa Sur	De 26 a 42	C	MOQUEGUA	Moquegua	0	0	1,898521500000000	Sur
+2988032	Masculino	Urbano	Lima	De 18 a 25	B	CALLAO	Lima y Callao	Callao	0	0,722194300000000	Lima
+2988033	Femenino	Urbano	Lima	De 43 a más	C	SAN MIGUEL	Lima y Callao	Lima	Rafael López Aliaga por Renovación Popular	0,844042600000000	Lima
+2988036	Femenino	Urbano	Costa Norte	De 43 a más	C	PIURA	Piura	0	0	1,157352900000000	Norte
+2988039	Femenino	Urbano	Sierra Sur	De 26 a 42	C	ANDAHUAYLAS	Apurímac	0	0	1,432073600000000	Sur
+2988040	Masculino	Urbano	Sierra Sur	De 26 a 42	B	ANDAHUAYLAS	Apurímac	0	0	1,280949800000000	Sur
+2988050	Femenino	Urbano	Lima	De 18 a 25	C	BREÑA	Lima y Callao	Lima	No precisa	0,844042600000000	Lima
+2988069	Femenino	Urbano	Costa Norte	De 26 a 42	C	NUEVO CHIMBOTE	Áncash	0	0	1,157352900000000	Norte
+2988075	Femenino	Urbano	Lima	De 26 a 42	B	CALLAO	Lima y Callao	Callao	0	0,722194300000000	Lima
+2988079	Femenino	Urbano	Costa Norte	De 43 a más	C	PIURA	Piura	0	0	1,157352900000000	Norte
+2988085	Masculino	Urbano	Sierra Sur	De 26 a 42	C	SAN JERONIMO	Apurímac	0	0	1,432073600000000	Sur
+2988088	Femenino	Rural	Sierra Sur	De 43 a más	E	COTAHUASI	Arequipa	0	0	2,078454000000000	Sur
+2988089	Femenino	Rural	Sierra Sur	De 18 a 25	C	COTAHUASI	Arequipa	0	0	0,169093700000000	Sur
+2988090	Masculino	Rural	Sierra Sur	De 26 a 42	E	COTAHUASI	Arequipa	0	0	2,078454000000000	Sur
+2988091	Femenino	Rural	Sierra Sur	De 26 a 42	C	COTAHUASI	Arequipa	0	0	0,169093700000000	Sur
+2988092	Masculino	Rural	Sierra Sur	De 43 a más	C	COTAHUASI	Arequipa	0	0	0,169093700000000	Sur
+2988093	Femenino	Rural	Sierra Sur	De 18 a 25	E	COTAHUASI	Arequipa	0	0	2,078454000000000	Sur
+2988094	Masculino	Rural	Sierra Sur	De 26 a 42	E	COTAHUASI	Arequipa	0	0	2,078454000000000	Sur
+2988097	Masculino	Rural	Sierra Norte	De 43 a más	D	BAMBAMARCA	Cajamarca	0	0	0,722015100000000	Norte
+2988098	Femenino	Rural	Sierra Norte	De 18 a 25	C	BAMBAMARCA	Cajamarca	0	0	0,029980000000000	Norte
+2988099	Femenino	Rural	Sierra Norte	De 26 a 42	C	BAMBAMARCA	Cajamarca	0	0	0,029980000000000	Norte
+2988100	Femenino	Rural	Sierra Norte	De 26 a 42	C	BAMBAMARCA	Cajamarca	0	0	0,029980000000000	Norte
+2988101	Femenino	Rural	Sierra Norte	De 43 a más	C	BAMBAMARCA	Cajamarca	0	0	0,029980000000000	Norte
+2988103	Femenino	Urbano	Costa Norte	De 26 a 42	D	PIURA	Piura	0	0	1,593514800000000	Norte
+2988105	Femenino	Urbano	Costa Norte	De 18 a 25	B	CHULUCANAS	Piura	0	0	0,687797400000000	Norte
+2988107	Femenino	Rural	Sierra Norte	De 43 a más	C	BAMBAMARCA	Cajamarca	0	0	0,029980000000000	Norte
+2988115	Masculino	Urbano	Costa Norte	De 26 a 42	B	CHULUCANAS	Piura	0	0	0,687797400000000	Norte
+2988116	Femenino	Urbano	Sierra Sur	De 18 a 25	C	ANDAHUAYLAS	Apurímac	0	0	1,432073600000000	Sur
+2988130	Femenino	Urbano	Sierra Sur	De 43 a más	E	PUNO	Puno	0	0	0,861575700000000	Sur
+2988131	Femenino	Urbano	Sierra Sur	De 26 a 42	D	PUNO	Puno	0	0	1,128476000000000	Sur
+2988135	Masculino	Rural	Sierra Sur	De 26 a 42	E	COTAHUASI	Arequipa	0	0	2,078454000000000	Sur
+2988136	Femenino	Rural	Sierra Sur	De 43 a más	C	COTAHUASI	Arequipa	0	0	0,169093700000000	Sur
+2988145	Femenino	Urbano	Sierra Sur	De 43 a más	D	ANDAHUAYLAS	Apurímac	0	0	1,128476000000000	Sur
+2988147	Masculino	Rural	Sierra Sur	De 43 a más	E	COTAHUASI	Arequipa	0	0	2,078454000000000	Sur
