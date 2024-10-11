@@ -28,7 +28,7 @@ datos1b = read_tsv('U3 - DATOS01.txt',
                    col_names = c("CENTRO_POBLADO","LONGITUD","LATITUD"))
 datos1b |> head()
 
-datos1c = read_delim('U3 - DATOS1.txt',
+datos1c = read_delim('U3 - DATOS01.txt', 
                      skip   = 1, 
                      delim  = "\t",
                      locale = locale(decimal_mark = ","),
