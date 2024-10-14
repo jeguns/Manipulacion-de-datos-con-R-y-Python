@@ -135,8 +135,6 @@ To download R, please choose your preferred CRAN mirror.'
 typeof(s)
 
 
-
-
 # Estructuras de datos ----------------------------------------------------
 
 ## Vector atómico ----------------------------------------------------------
@@ -205,5 +203,99 @@ S
 
 ## Lista -------------------------------------------------------------------
 
+x2 = list(1L, 'a')
+typeof(x2)
+str(x2)
+is.atomic(x2)
+is.list(x2)
+x2[2]
+x2[[2]]
+str(x2[2])
+str(x2[[2]])
+is.double(x2)
+is.integer(x2)
+is.character(x2)
+x3 = list(1L, 2L)
+is.integer(x3)
+x3 = c(1L, 2L)
+is.integer(x3)
+
+y2 = list(m = c(3,4,5), n = c(7,24,25))
+typeof(y2)
+str(y2)
+is.atomic(y2)
+is.list(y2)
+y2[[2]]
+y2$n
+y2$n[3]
+
+b1 = list(x = 4L, y = TRUE, 5-3i)
+names(b1)
+unlist(b1)
+
+b2 = list(x = c("r","a","f"), y = TRUE, z = list(0,1))
+names(b2)
+unlist(b2)
 
 
+# MATRIZ ------------------------------------------------------------------
+
+x3 = matrix(c(7,3,5,8,6,6),ncol=2)
+x3
+x3 = matrix(c(7,3,5,8,6,6),nrow=3)
+x3
+typeof(x3)
+str(x3)
+is.double(x3)
+is.vector(x3)
+is.list(x3)
+is.matrix(x3)
+x3[1,2]
+x3[2,]
+x3[,2]
+str(x3[,2])
+x3[c(1,3),2]
+x3[2:3,2]
+
+y3 = matrix(c(7,TRUE,5,8,1,2),nrow=3)
+typeof(y3)
+str(y3)
+is.double(y3)
+is.vector(y3)
+is.list(y3)
+is.matrix(y3)
+y3[3,1]
+y3[2,]
+y3[,2]
+
+c1 = matrix(c(5,6,3,4,3,3,1,1),
+            ncol = 4, 
+            byrow = TRUE, 
+            dimnames = list(c("f1","f2"),c("co1","co2","co3","co4")))
+dim(c1)
+rownames(c1)
+colnames(c1)
+t(c1)
+c1
+c2 = matrix(c(3,4,3,4),nrow = 2)
+c2
+cbind(c1,c2)
+c3 = matrix(c(3,4,3,4),ncol = 4)
+rbind(c1,c3)
+
+var1 = c(4,5,3,5,3)
+var2 = c('1','3','66','12','15')
+x4 = data.frame(var1, var2)
+x4
+str(x4)
+typeof(x4)
+is.double(x4)
+is.vector(x4)
+is.list(x4)
+is.matrix(x4)
+is.data.frame(x4)
+x4[1,2]
+x4[2,] # 2da fila
+x4[,2] # 2da columna
+x4$var1
+x4$var2[3]
