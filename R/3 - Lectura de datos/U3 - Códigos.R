@@ -28,7 +28,7 @@ datos1b = read_tsv('U3 - DATOS01.txt',
                    col_names = c("CENTRO_POBLADO","LONGITUD","LATITUD"))
 datos1b |> head()
 
-datos1c = read_delim('U3 - DATOS01.txt', 
+datos1c = read_delim('U3 - DATOS1.txt',
                      skip   = 1, 
                      delim  = "\t",
                      locale = locale(decimal_mark = ","),
@@ -152,6 +152,7 @@ datos6a = read.csv('U3 - DATOS06.csv',
 datos6a |> head()
 
 datos6b = read.table('U3 - DATOS06.csv',
+                     header = TRUE,
                      sep = ",",
                      col.names = c("CENTRO_POBLADO","LONGITUD","LATITUD"))
 datos6b |> head()
@@ -219,3 +220,92 @@ datos8c |> head()
 # Fuente: https://www.senamhi.gob.pe/?p=estaciones
 
 # Lea este conjunto de datos usando al menos 2 funciones
+
+
+# Hojas de cálculo --------------------------------------------------------
+
+
+## DATOS11 ----------------------------------------------------------------
+
+# Los archivos U3 - DATOS11.xlsx y U3 - DATOS11.xls contiene 3 columnas del conjunto de datos de
+# la ENDES del año 2022
+# Fuente: https://www.datosabiertos.gob.pe/dataset/encuesta-demogr%C3%A1fica-y-de-salud-familiar-endes-2022-instituto-nacional-de-estad%C3%ADstica-e
+
+library(readxl)
+datos_11a = read_excel('U3 - DATOS11.xlsx')
+datos_11b = read_xlsx('U3 - DATOS11.xlsx')
+datos_11c = read_xls('U3 - DATOS11.xls')
+
+
+## DATOS12 ----------------------------------------------------------------
+
+# El archivo U3 - DATOS12.xlsx se refiere al conjunto de datos completo de
+# la ENDES del año 2022
+# Fuente: https://www.datosabiertos.gob.pe/dataset/encuesta-demogr%C3%A1fica-y-de-salud-familiar-endes-2022-instituto-nacional-de-estad%C3%ADstica-e
+
+
+## DATOS13 ----------------------------------------------------------------
+
+# El archivo U3 - DATOS13.xlsx contiene datos (sin etiquetar en la primera hoja,
+# y etiquetados en la segunda) acerca de la encuesta de 
+# intención de voto municipal en agosto 2022, llevada a cabo por Ipsos
+# Fuente: https://www.ipsos.com/es-pe/intencion-de-voto-municipal-agosto-2022
+
+datos_13a = read_excel('U3 - DATOS13.xlsx')
+datos_13b = read_excel('U3 - DATOS13.xlsx', sheet = 1)
+datos_13b = read_excel('U3 - DATOS13.xlsx', sheet = 'SIN ETIQUETAS')
+datos_13c = read_excel('U3 - DATOS13.xlsx', sheet = 2)
+datos_13d = read_excel('U3 - DATOS13.xlsx', sheet = 'CON ETIQUETAS')
+
+## DATOS14 -----------------------------------------------------------------
+
+# El archivo U3 - DATOS14.xlsx contiene datos acerca de las condiciones
+# meteorológicas en la estación del SENAMHI ubicada en la UNALM
+# Fuente: https://www.senamhi.gob.pe/?p=estaciones
+
+datos_14a = read_excel('U3 - DATOS14.xlsx', 
+                       skip = 11)
+datos_14b = read_excel('U3 - DATOS14.xlsx', 
+                       range = "A15:G123")
+datos_14c = read_excel('U3 - DATOS14.xlsx', 
+                       skip = 15,
+                       col_names = c("FECHA","HORA","TEMP","PREC","HUME",
+                                     "DIREC","VELOC"))
+datos_14d = read_excel('U3 - DATOS14.xlsx', 
+                       range = "A16:G123",
+                       col_names = c("FECHA","HORA","TEMP","PREC","HUME",
+                                     "DIREC","VELOC"))
+identical(datos_14a,datos_14b)
+identical(datos_14c,datos_14d)
+
+
+## DATOS15 -----------------------------------------------------------------
+
+# El archivo U3 - DATOS15.dta contiene datos de la Encuesta Nacional de Hogares
+# (ENAHO) correspondientes al módulo 1 en el segundo trimestre del 2024.
+# Fuente: https://proyectos.inei.gob.pe/microdatos/
+
+library(foreign)
+datos_15a = read.dta("U3 - DATOS15.dta")
+
+library(haven)
+datos_15b = read_dta("U3 - DATOS15.dta")
+
+datos_15a |> str()
+datos_15b |> str()
+
+
+## DATOS16 -----------------------------------------------------------------
+
+# El archivo U3 - DATOS16.sav contiene datos de la Encuesta Nacional de Hogares
+# (ENAHO) correspondientes al módulo 1 en el segundo trimestre del 2024.
+# Fuente: https://proyectos.inei.gob.pe/microdatos/
+
+datos_16a = read.spss("U3 - DATOS16.sav")
+datos_16b = read.spss("U3 - DATOS16.sav", to.data.frame = TRUE)
+datos_16c = read_sav("U3 - DATOS16.sav")
+
+datos_16a |> str()
+datos_16b |> str()
+datos_16c |> str()
+
