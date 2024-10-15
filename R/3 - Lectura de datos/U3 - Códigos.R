@@ -279,6 +279,8 @@ identical(datos_14a,datos_14b)
 identical(datos_14c,datos_14d)
 
 
+# Archivos STATA -----------------------------------------------------------
+
 ## DATOS15 -----------------------------------------------------------------
 
 # El archivo U3 - DATOS15.dta contiene datos de la Encuesta Nacional de Hogares
@@ -294,6 +296,8 @@ datos_15b = read_dta("U3 - DATOS15.dta")
 datos_15a |> str()
 datos_15b |> str()
 
+
+# Archivos SPSS  ----------------------------------------------------------
 
 ## DATOS16 -----------------------------------------------------------------
 
