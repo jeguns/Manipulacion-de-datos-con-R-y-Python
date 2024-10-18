@@ -42,3 +42,11 @@ datos1 |> inner_join(datos2, by = c("CODIGO" = "codigo")) -> datos5
 
 datos1 |> full_join(datos2, by = c("CODIGO" = "codigo")) -> datos6
 
+
+# Ordenamiento de datos ---------------------------------------------------
+
+datos5 |> arrange(P208A)
+
+datos5 |> arrange(-P208A)
+
+datos5 |> arrange(desc(P208A))
